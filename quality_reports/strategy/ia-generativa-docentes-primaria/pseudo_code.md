@@ -2,6 +2,8 @@
 
 **Paper type:** Descriptive/interpretive (qualitative), Grounded Theory. This is specification-level pseudo-code for the coding and category-development workflow, not a statistical estimation script. REBUILT 2026-07-28 — supersedes the version built for the discarded Abric-structural design. See `quality_reports/strategy_memo_ia-generativa-docentes-primaria.md` §2 for full justification of each step.
 
+**Revision 2 (2026-07-28) — fix per strategist-critic round 1, Issue 2.1 (MAJOR):** Phase 3 below uses "Eje A-D," this memo's own analytic coding axes derived from the 5 objetivos específicos. These are **not** the same as the guión de entrevista's own, explicitly-named "cuatro ejes de análisis" (representaciones sobre la IAG en educación; preocupaciones y expectativas; concepciones sobre el potencial pedagógico; usos proyectados en propuestas didácticas), stated verbatim in the thesis plan (p. 12) and the Ateneo (§2). See strategy memo §1.0 for the full reconciliation and crosswalk between the two structures. The methods section of the eventual paper describes the interview guide using the real, verbatim guión ejes; "Eje A-D" below is this analysis's own coding-scheme layer, not a restatement of the guión.
+
 ---
 
 ## Phase 0 — Data Readiness Gate
@@ -88,6 +90,12 @@ for each code in codebook_v1:
     compare(code, all_previously_coded_segments)
     revise(code)  # merge, split, rename as warranted — not a one-pass tally
 
+# "Eje A-D" below = this memo's own analytic coding axes (strategy memo §1 table),
+# derived from the 5 objetivos específicos — NOT the guión de entrevista's own four
+# "ejes de análisis" (representaciones / preocupaciones-expectativas / concepciones del
+# potencial pedagógico / usos proyectados, verbatim thesis plan p.12 & Ateneo §2).
+# See strategy memo §1.0 for the full reconciliation crosswalk before using this
+# labeling in any writer-facing output.
 axial_categories <- group_related_codes(codebook_v1, guided_by=[
     "Eje A: competencias digitales <-> representación",
     "Eje B: conocimientos previos <-> representación del potencial",
