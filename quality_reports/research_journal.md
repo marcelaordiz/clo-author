@@ -47,3 +47,17 @@
 **Score:** 82/100
 **Verdict:** PASS (gate ≥80). Well-handled: Caldeiro et al. page discrepancy and the Educ.ar 24% figure were both disclosed honestly rather than glossed over; positioning.md correctly reflects Grounded Theory + imaginaries-as-active-dimension + continuity with the researcher's own work. Issues: missing BibTeX entry for the InveCom review; internal count mismatch (claimed 18 new refs, actually 21); Kaplan-Rakowski substitution flagged but not assessed for plausibility (hallucinated-citation fingerprint went unexamined); the scooping-risk conclusion ("novelty claim holds") is stated more confidently than warranted given both closest-overlap candidates were blocked/incomplete sources, not actually read.
 **Report:** `quality_reports/literature/ia-generativa-docentes-primaria/critic_report_addendum.md`
+
+### 2026-07-28 — Strategist (full rebuild)
+**Phase:** Strategy
+**Target:** ia-generativa-docentes-primaria — strategy memo rebuilt on corrected inputs
+**Score:** N/A (see strategist-critic below)
+**Verdict:** Discarded the Abric/Vergès structural apparatus entirely; rebuilt around Grounded Theory (deductive seed categories from the 4 real theoretical núcleos + inductive emergence), explicitly rejected the invented aula/tareas_docentes split (verified absent from the real thesis plan and Ateneo doc), documented the real sample history (N=10 intentional → 14-15 expanded), and operationalized imaginarios sociotécnicos as an active analytic dimension with a concrete over-inference guardrail. One input gap: could not read the Ateneo `.docx` directly (binary), relied on domain-profile.md's secondhand summary — flagged explicitly.
+**Report:** `quality_reports/strategy_memo_ia-generativa-docentes-primaria.md`, `quality_reports/decisions/strategy_ia-generativa-docentes-primaria.md`, `quality_reports/strategy/ia-generativa-docentes-primaria/`
+
+### 2026-07-28 — strategist-critic (rebuild review, round 1)
+**Phase:** Strategy
+**Target:** ia-generativa-docentes-primaria (rebuilt strategy memo)
+**Score:** 82/100
+**Verdict:** PASS at commit gate (≥80), not PR gate (≥90). Verified the memo's RQ/objetivos against the primary sources directly (including the newly-created Ateneo `.md` mirror) — no material drift found, and the prior Strategist's secondhand characterization of the Ateneo checked out. 2 MAJOR issues: (1) memo's OE-derived four axes diverge, undisclosed, from the "cuatro ejes de análisis" named verbatim in the plan/Ateneo; (2) `positioning.md` still contains a leftover Abric-era "aula + tareas docentes" differentiation axis contradicting the memo's own rejection of that split. 2 MINOR: the Ateneo's own three-group literature typology (TAM/ethics-concern/critical-imaginaries) isn't engaged; the encuesta component is under-weighted relative to what the cronograma shows (planned as a resourced parallel activity, not a passing mention). Abric/Vergès residue-hunt in the three named companion files came up clean.
+**Report:** `quality_reports/strategy_memo_ia-generativa-docentes-primaria_review.md`
