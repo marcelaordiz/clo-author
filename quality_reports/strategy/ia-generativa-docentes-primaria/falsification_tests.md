@@ -1,41 +1,47 @@
 # Falsification / Validation Tests: ia-generativa-docentes-primaria
 
-**Paper type:** Descriptive/interpretive (qualitative) — these are the validation/falsification equivalents for a Social-Representations-Theory + thematic-analysis design, not placebo regressions. Cross-referenced with `robustness_plan.md` (Priority 1 and Priority 4).
+**Paper type:** Descriptive/interpretive (qualitative) — Grounded Theory + imaginarios sociotécnicos as active dimension. These are the validation/falsification equivalents for this design, not placebo regressions. REBUILT 2026-07-28 — supersedes the version built for the discarded Abric-structural design (which included tests specific to a núcleo-central claim that no longer exists in this design). Cross-referenced with `robustness_plan.md` (Priority 1 and Priority 4).
 
 ---
 
 ## 1. Negative / Deviant Case Analysis (primary falsification device)
 
-For every element classified as a `candidato_nucleo_central` (strategy memo §2.3), actively search the full corpus for participants whose discourse contradicts or complicates that classification.
+For every axial category proposed (Eje A-D, plus any Núcleo-4 imaginaries finding), actively search the full corpus for participants whose discourse contradicts or complicates that category.
 
-- **What would falsify the candidacy:** A substantial minority (not just one participant) explicitly and consistently rejects the framing attributed to the núcleo (e.g., if "IA generativa como herramienta neutral" is a candidate, and 4+ participants instead frame it as inherently threatening with no neutral framing at all, the core candidacy is weakened, not confirmed).
-- **Documented outcome required:** For each candidate, state explicitly: (a) how many deviant cases were found, (b) whether they were resolved by re-reading as a variant of the same core theme (still consistent), or (c) whether they genuinely contradict and should downgrade the element to peripheral or split it into two competing candidate cores.
+- **What would falsify a proposed axial-category account:** A substantial minority (not just one participant) explicitly and consistently contradicts the account attributed to that axis — e.g., if Eje D's account is "docentes con mayor conocimiento previo tienden a ver mayor potencial pedagógico en propuestas didácticas con IAG," and several participants with high declared prior knowledge instead express strong pedagogical skepticism, the account must be revised, not asserted as-is.
+- **Documented outcome required:** For each axial category, state explicitly: (a) how many deviant/counter-instance cases were found, (b) whether they were resolved as a variant/nuance of the same account, or (c) whether they genuinely contradict it and require revising or fragmenting the category.
 
 ## 2. Institutional-Discourse Falsification Check
 
-- **What would falsify "genuine representation" claim:** If a candidato_nucleo_central *only* appears in segments coded `eco_discurso_institucional` and disappears entirely when those segments are excluded, this falsifies the claim that it reflects docentes' own constructed sense-making rather than repetition of official/ministerial discourse.
-- **Implementation:** Re-run Phase 3 classification (pseudo_code.md) excluding `eco_discurso_institucional`-tagged segments; compare núcleo candidate lists.
-- **Reportable outcomes:** (a) núcleo stable → strengthens genuineness claim; (b) núcleo collapses → report as a substantive finding about the representation's dependence on official discourse, explicitly flagged, not hidden.
+- **What would falsify a "genuine teacher representation" claim for a given finding:** If a finding involving `eco_discurso_institucional` *only* appears in segments closely echoing the Guía 2025/Educ.ar marker list, and disappears entirely when those segments are excluded, this falsifies the claim that the finding reflects the teacher's own constructed sense-making rather than repetition of official/ministerial discourse.
+- **Implementation:** Re-run the relevant classification (pseudo_code.md, Phase 7) excluding `eco_discurso_institucional`-tagged segments; compare before/after.
+- **Reportable outcomes:** (a) finding stable → strengthens genuineness claim; (b) finding collapses → report as a substantive finding about that axis's dependence on official discourse, explicitly flagged, not hidden (this is itself informative, per strategy memo §2.4 Step 3 — echo strength may legitimately differ by axis, e.g., stronger in "preocupaciones" than in "usos proyectados").
 
-## 3. Domain-Stability Falsification Check
+## 3. Marker-Misattribution Falsification Check (imaginaries-specific — new in this rebuild)
 
-- **What would falsify the "single supraordinate representation across aula/tareas" framing (strategy memo §1):** If the candidatos a núcleo central identified in `aula`-tagged segments share no elements at all with those identified in `tareas_docentes`-tagged segments, the single-object framing is falsified, and the thesis should instead report two distinct representations.
-- **Implementation:** Compare Phase-3 classification run separately on each domain-tagged subsample (robustness_plan.md, Priority 2, #6).
-- **Reportable outcomes:** Both a stable shared core and a fragmented/domain-specific core are legitimate, reportable findings — the check exists to prevent asserting stability (or fragmentation) without having actually tested it.
+- **What would falsify confidence in the imaginaries marker list itself:** If, on close inspection, segments coded `eco_discurso_institucional` turn out to reflect generic pedagogical language any teacher might use regardless of exposure to the Guía 2025 or Educ.ar report (i.e., the marker is not actually distinctive of the official/national corpus, just common professional discourse) — this would falsify the inferential chain, not just a specific finding.
+- **Implementation:** For a sample of segments coded `eco_discurso_institucional`, trace the marker to its specific source line in the reference documents (strategy memo §7, objection 5's pre-planned analysis) and assess independently whether the phrase is genuinely distinctive or generically common.
+- **Reportable outcome:** Flag and recode any segment whose institutional-echo classification cannot be traced to a specific, reasonably distinctive source-document line.
 
-## 4. Individual-Opinion Falsification Check
+## 4. Coverage-Artifact Falsification Check (replaces the old "aula/tareas domain-stability" test, which no longer applies)
 
-- **What would falsify a proposed núcleo element:** If, on closer coding, an element that initially appeared frequent (≥8/14) turns out to be frequent only because participants are echoing the interviewer's own question wording (interview-effect artifact) rather than generating the framing spontaneously.
-- **Implementation:** For each candidate, check whether the framing appears in participant answers to open/non-leading questions in the interview guide, not only in response to a question that already used that framing.
-- **Reportable outcome:** Flag and downgrade any candidate whose apparent frequency is substantially an artifact of question wording.
+- **What would falsify a frequency-style claim:** If an apparent pattern ("most teachers expressed concern about X") turns out, on inspection, to be an artifact of which protocol blocks were administered to which participants rather than a genuine distributional pattern in the population of interest.
+- **Implementation:** For every reported frequency claim, cross-check the actual denominator (participants for whom the relevant block was administered) against the claim as stated (pseudo_code.md, Phase 8).
+- **Reportable outcome:** Any claim whose apparent frequency changes materially once conditioned on true coverage must be restated with the correct denominator, not silently reported against the full completed N.
 
-## 5. Cross-Method Falsification (manual coding vs. IRAMUTEQ)
+## 5. Interview-Effect / Question-Wording Falsification Check
 
-- **What would falsify confidence in a candidate:** If IRAMUTEQ's word-frequency/similarity-analysis output shows the term/theme is actually rare or peripheral in raw lexical terms, while manual coding classified it as central — this discrepancy must be investigated, not silently dropped.
-- **Implementation:** robustness_plan.md Priority 2, #5.
-- **Reportable outcome:** Document whether the discrepancy reflects a genuine limit of lexical-frequency methods (i.e., a theme can be central in meaning without being lexically frequent — legitimate in SRT theory, where connotative force ≠ raw frequency) or an actual overreach in manual coding.
+- **What would falsify a proposed category:** If an element that initially appeared frequent turns out to be frequent mainly because participants are echoing the interviewer's own question wording (an interview-effect artifact) rather than generating the framing spontaneously.
+- **Implementation:** For each candidate category, check whether the framing also appears in the (relatively rare) unprompted/spontaneous moments in the protocol — most importantly Bloque 3-Pregunta 1 (§2.5 of the strategy memo, the objetivación anchor) — not only in direct response to a question that already used that framing.
+- **Reportable outcome:** Flag and downgrade confidence in any category whose apparent salience is substantially an artifact of question wording, distinguishing it explicitly from categories corroborated by the unprompted objetivación anchor.
 
-## 6. Saturation Falsification
+## 6. Theoretical Saturation Falsification
 
-- **What would falsify the "N=14 is adequate" claim:** The cumulative new-codes-per-interview curve (robustness_plan.md Priority 1, #1) fails to flatten by interview 14 — i.e., interviews 12, 13, 14 still introduce substantial numbers of new codes.
-- **Reportable outcome:** If saturation is not reached, state this explicitly as a scope limitation on the structural claims (do not claim a "complete" núcleo central reconstruction; frame findings as provisional/exploratory).
+- **What would falsify the "N=14-15 supports a substantive theory" claim:** The cumulative new-codes-per-interview curve (robustness_plan.md Priority 1, #1) fails to flatten by the final interviews, or later interviews continue to reveal new properties/relationships for the core axial categories (not just new labels).
+- **Reportable outcome:** If theoretical saturation is not reached for a given axial category, state this explicitly as a scope limitation (frame that category's findings as exploratory/provisional, not as a complete substantive account).
+
+## 7. Reflexivity/Prior-Study Confirmation-Bias Falsification Check
+
+- **What would falsify the claim that findings were genuinely (re-)discovered rather than merely recognized from the researcher's own 2024 prior study:** If every major finding aligns neatly with the 2024 study's conclusions with no counter-instance ever actively sought or found, this raises the concern that confirmation bias, not genuine analysis, produced the alignment.
+- **Implementation:** For each major finding that corroborates the 2024 study, document explicitly that a counter-instance search was performed (robustness_plan.md Priority 3, #11) and what was found (even if the search came up empty, that itself should be logged, with the search process described).
+- **Reportable outcome:** At least one instance in the final write-up should show a finding that either departs from, complicates, or was seriously tested against the 2024 study's expectations — a corpus that only ever confirms prior expectations, with no documented attempt at disconfirmation, would itself be a red flag for this thesis's own rigor.
