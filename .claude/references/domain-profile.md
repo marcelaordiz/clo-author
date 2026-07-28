@@ -9,8 +9,10 @@ If no field is specified, agents default to applied economics.
 
 ## Field
 
-**Primary:** [e.g., Health Economics, Labor Economics, Development, IO, Public Finance]
-**Adjacent subfields:** [e.g., Labor, Public, IO — fields whose methods and journals overlap]
+**Primary:** Investigación Educativa — Tecnología Educativa / Formación Docente
+**Adjacent subfields:** Psicología educacional, Teoría de las representaciones sociales (Moscovici), TIC en educación, Didáctica, Estudios sobre IA en educación
+
+**Note on paper type:** This is a **qualitative/interpretive** study (social representations of teachers), not an econometric causal-inference paper. The tables below repurpose the template's fields for qualitative methodology instead of identification strategy. The strategist/theorist agents' causal-inference defaults (IV, DiD, RDD) do not apply here — treat "Common Identification Strategies" as "Common Analytic Strategies" and skip the theorist agent unless a formal/computational model of representation structure is added later.
 
 ---
 
@@ -20,10 +22,10 @@ If no field is specified, agents default to applied economics.
 
 | Tier | Journals |
 |------|----------|
-| Top-5 | AER, Econometrica, JPE, QJE, REStud |
-| Top field | [e.g., JHE, RAND JE, AEJ:EP, AEJ:Applied] |
-| Strong field | [e.g., Health Affairs, AJHE, JPubE, JHR] |
-| Specialty | [e.g., Medical Care, Health Services Research] |
+| International (high impact) | *Computers & Education*, *British Journal of Educational Technology (BJET)*, *Teaching and Teacher Education*, *Learning, Media and Technology* |
+| Latin American / Spanish-language | *Revista Iberoamericana de Educación (RIE)*, *RELIEVE*, *Profesorado: Revista de Currículum y Formación del Profesorado*, *Revista de Educación a Distancia (RED)*, *Píxel-Bit* |
+| Regional / institutional | Revistas de UNSAM y otras universidades argentinas (educación, ciencias sociales), *Revista Argentina de Educación* |
+| Specialty (social representations) | *Papers on Social Representations*, *Cadernos de Pesquisa* (if comparative Brazil/LatAm angle) |
 
 ---
 
@@ -33,17 +35,24 @@ If no field is specified, agents default to applied economics.
 
 | Dataset | Type | Access | Notes |
 |---------|------|--------|-------|
-| [e.g., CPS] | [survey/admin/panel] | [public/restricted] | [key strengths and limitations] |
+| Entrevistas semiestructuradas a docentes de nivel primario | Cualitativo (entrevista) | A recolectar / propio | Fuente principal para reconstruir representaciones; cuidar consentimiento informado y anonimización |
+| Encuesta / cuestionario a docentes (actitudes y uso de IA generativa) | Survey (mixto) | A recolectar / propio | Útil para contextualizar frecuencias de uso antes del análisis cualitativo profundo |
+| Grupos focales con docentes | Cualitativo (focus group) | A recolectar / propio | Permite observar co-construcción social de representaciones, no solo individuales |
+| Documentos institucionales (currículum, capacitaciones docentes sobre IA) | Documental | Público/institucional | Para triangular contexto normativo con el discurso docente |
 
 ---
 
 ## Common Identification Strategies
 
-<!-- The Strategist considers these first. The strategist-critic knows field-specific threats. -->
+<!-- Repurposed for qualitative work: analytic/methodological strategies instead of causal identification. -->
 
-| Strategy | Typical Application | Key Assumption to Defend |
-|----------|-------------------|------------------------|
-| [e.g., State-level DiD] | [Policy variation across states] | [Parallel trends in outcomes across treated/control states] |
+| Strategy | Typical Application | Key Assumption / Rigor Criterion to Defend |
+|----------|-------------------|------------------------------------------|
+| Teoría de las Representaciones Sociales (Moscovici/Jodelet) | Reconstruir núcleo central y periférico de las representaciones docentes sobre IA generativa | Justificar núcleo figurativo vs. elementos periféricos; evitar confundir opinión con representación social |
+| Análisis temático (Braun & Clarke) | Codificación de entrevistas/grupos focales | Reportar proceso de codificación, saturación teórica, y verificación entre codificadores (fiabilidad inter-jueces) |
+| Análisis de discurso | Examinar cómo los docentes narrativizan la IA generativa (amenaza/herramienta/etc.) | Transparencia en la selección de fragmentos citados; no sobregeneralizar desde pocos casos |
+| Análisis lexicométrico (ej. IRAMUTEQ) | Complemento cuantitativo al análisis cualitativo, mapas de co-ocurrencia léxica | Tamaño de corpus suficiente; triangular con lectura cualitativa cercana |
+| Muestreo intencional / teórico | Selección de docentes por escuela, antigüedad, exposición previa a IA | Justificar criterios de selección y heterogeneidad de la muestra |
 
 ---
 
@@ -51,11 +60,12 @@ If no field is specified, agents default to applied economics.
 
 <!-- The Coder and Writer follow these. The writer-critic checks for them. -->
 
-- [e.g., Binary outcomes → report LPM alongside logit/probit marginal effects]
-- [e.g., Cost outcomes → log transform or GLM (Gamma, log link)]
-- [e.g., Clustering at state level for state-level policy variation]
-- [e.g., Always discuss moral hazard / adverse selection implications]
-- [e.g., Welfare analysis expected in top-5 submissions]
+- Reportar criterios de rigor cualitativo: credibilidad, transferibilidad, dependencia, confirmabilidad (Lincoln & Guba)
+- Incluir declaración de reflexividad del investigador/a frente al objeto de estudio
+- Reportar el proceso de codificación (manual o con software: NVivo, Atlas.ti, IRAMUTEQ) y fiabilidad inter-codificadores si aplica
+- Anonimizar docentes e instituciones; describir protocolo de consentimiento informado
+- Distinguir explícitamente representación social de actitud/opinión individual
+- Evitar lenguaje causal ("la IA generativa produce X en los docentes") — usar lenguaje interpretativo/descriptivo salvo diseño experimental
 
 ---
 
@@ -63,45 +73,42 @@ If no field is specified, agents default to applied economics.
 
 <!-- The Writer and writer-critic enforce these. -->
 
-| Symbol | Meaning | Anti-pattern |
+| Symbol / Convention | Meaning | Anti-pattern |
 |--------|---------|-------------|
-| [e.g., $Y_{it}$] | [Outcome for individual i at time t] | [Don't use $y$ without subscripts] |
+| P1, P2, ... / D1, D2, ... | Identificador anonimizado de cada docente/participante citado | No usar nombres reales ni datos que permitan reidentificación |
+| Cursiva para citas textuales de entrevistas | Marca discurso literal del participante vs. análisis del autor | No mezclar cita textual y paráfrasis sin comillas/cursiva |
 
 ---
 
 ## Seminal References
 
-<!-- The Librarian ensures these are cited when relevant. The strategist-critic knows their methods. -->
+<!-- The Librarian ensures these are cited when relevant. -->
 
 | Paper | Why It Matters |
 |-------|---------------|
-| [e.g., Finkelstein et al. (2012)] | [Oregon HIE — gold standard for insurance effects] |
+| Moscovici, S. (1961/1979). *El psicoanálisis, su imagen y su público* | Obra fundacional de la Teoría de las Representaciones Sociales |
+| Jodelet, D. (1989). *Représentations sociales: un domaine en expansion* | Marco metodológico estándar para estudiar representaciones sociales en educación |
+| Abric, J.-C. (2001). *Prácticas sociales y representaciones* | Núcleo central / periférico — estructura de la representación |
+| Braun, V. & Clarke, V. (2006). *Using thematic analysis in psychology* | Referencia estándar de análisis temático cualitativo |
 
 ---
 
 ## Theoretical Foundational References
 
-<!-- The Theorist and theorist-critic default to these anchors when building or reviewing a theory section.
-     Only needed if the paper has a formal theory section (econometric methods, theory+empirics,
-     structural identification, or methodological reduced-form).
-     Leave empty to fall back to the generic econometric theory defaults baked into the theorist agent. -->
+<!-- Only needed if a formal/computational model is added. Leave empty otherwise — this project has no
+     formal theory section by default given its qualitative design. -->
 
 | Topic | Anchor references |
 |-------|------------------|
-| [e.g., DiD with staggered adoption] | [e.g., Callaway & Sant'Anna (2021); Sant'Anna & Zhao (2020)] |
-| [e.g., Semiparametric efficiency] | [e.g., Newey (1990, 1994); Bickel-Klaassen-Ritov-Wellner (1993)] |
+| (No aplica — diseño cualitativo sin modelo formal) | — |
 
 ---
 
 ## Paper Author Team
 
-<!-- Used by the theorist-critic to calibrate respect. If the authors are themselves among the reference
-     literature on a topic, the critic avoids lecturing them on their own contributions.
-     List author surnames + the topics they are foundational on. -->
-
 | Author | Foundational on |
 |--------|----------------|
-| [e.g., Callaway] | [DiD with staggered adoption, $ATT(g,t)$] |
+| [Completar si corresponde] | — |
 
 ---
 
@@ -109,19 +116,18 @@ If no field is specified, agents default to applied economics.
 
 <!-- The domain-referee and methods-referee watch for these. -->
 
-- [e.g., "Why not use the Oregon HIE?" — must address if studying insurance effects]
-- [e.g., "Selection into treatment" — always a concern in health care utilization studies]
-- [e.g., "Moral hazard vs adverse selection" — referees expect you to distinguish]
-- [e.g., "External validity" — Medicaid population ≠ general population]
+- "¿Por qué representaciones sociales y no simplemente actitudes o percepciones?" — debe justificarse el marco teórico elegido
+- "¿Cómo se garantiza la fiabilidad de la codificación?" — esperar reporte de proceso de análisis y, si aplica, acuerdo inter-jueces
+- "Tamaño y composición de la muestra" — docentes de nivel primario es un universo heterogéneo; justificar alcance y límites de transferibilidad
+- "Sesgo de deseabilidad social" — docentes pueden minimizar rechazo o desconocimiento de IA generativa frente al entrevistador
+- "Distinción entre discurso institucional y representación genuina" — cuidar que la voz docente no quede subsumida en el discurso oficial sobre IA en la escuela
 
 ---
 
 ## Quality Tolerance Thresholds
 
-<!-- Customize for your domain's standards. Used by quality.md. -->
+<!-- Not applicable in the numerical sense (no point estimates/SEs) for a qualitative design. -->
 
 | Quantity | Tolerance | Rationale |
 |----------|-----------|-----------|
-| Point estimates | [e.g., 1e-6] | [Numerical precision] |
-| Standard errors | [e.g., 1e-4] | [MC variability] |
-| Coverage rates | [e.g., ± 0.01] | [Simulation with B reps] |
+| N/A (diseño cualitativo) | — | No hay estimaciones puntuales; el rigor se evalúa vía credibilidad/transferibilidad (ver Field Conventions) |

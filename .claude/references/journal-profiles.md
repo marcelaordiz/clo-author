@@ -348,6 +348,42 @@ Each journal profile includes a **Referee pool** that weights which dispositions
 
 ---
 
+## Education
+
+### Computers & Education
+**Focus:** Educational technology — impact of digital tools, AI, and media on teaching and learning
+**Bar:** Rigorous empirical or mixed-methods study with clear implications for educational technology practice or theory. Qualitative studies must show systematic analysis, not anecdote.
+**Domain referee adjusts:** Contribution to educational-technology theory (e.g., TPACK, representations of AI in teaching practice). Practical implications for teacher training. International/comparative relevance appreciated.
+**Methods referee adjusts:** For qualitative designs: coding transparency, inter-coder reliability, saturation, reflexivity. For mixed methods: clear rationale for integration. No causal language without an experimental/quasi-experimental design.
+**Typical concerns:** "Is the coding process transparent and reliable?" "Does this go beyond descriptive opinion into a genuine social-representations account?" "Sample size and diversity of teachers?"
+**Referee pool:** MEASUREMENT (high), CREDIBILITY (high), THEORY (medium), STRUCTURAL (low), POLICY (medium), SKEPTIC (low)
+
+### British Journal of Educational Technology (BJET)
+**Focus:** Educational technology — pedagogy, policy, and practice around digital tools in education
+**Bar:** Clear pedagogical or policy contribution, methodologically sound (qualitative, quantitative, or mixed).
+**Domain referee adjusts:** Teacher perspectives and practice-based framing valued. Should engage with existing EdTech adoption/acceptance literature (e.g., TAM, TPACK) and situate AI-specific findings within it.
+**Methods referee adjusts:** Qualitative rigor (credibility, transferability, dependability, confirmability per Lincoln & Guba) expected. Interview/focus-group protocols should be documented and included as appendices.
+**Typical concerns:** "How were teachers selected?" "What is transferable beyond this specific school context?" "Is there a risk of social-desirability bias in teacher self-report on AI use?"
+**Referee pool:** CREDIBILITY (high), MEASUREMENT (medium), POLICY (medium), THEORY (medium), STRUCTURAL (low), SKEPTIC (low)
+
+### Teaching and Teacher Education
+**Focus:** Teacher cognition, beliefs, professional development, and practice
+**Bar:** Deep engagement with teachers' beliefs/representations/identity, grounded in established teacher-cognition or social-representations frameworks.
+**Domain referee adjusts:** Expects explicit engagement with teacher-belief/representation theory (Moscovici, Jodelet, Abric, or teacher-cognition traditions). Implications for teacher education and professional development expected.
+**Methods referee adjusts:** Qualitative analysis (thematic, discourse, or social-representations analysis) must be systematic and auditable. Reflexivity statement expected given the interpretive nature of the design.
+**Typical concerns:** "Is this a representation, an attitude, or a belief — and does the paper distinguish them?" "What is the theoretical contribution beyond descriptive findings?"
+**Referee pool:** THEORY (high), CREDIBILITY (high), MEASUREMENT (medium), STRUCTURAL (low), POLICY (low), SKEPTIC (low)
+
+### Revista Iberoamericana de Educación (RIE) / RELIEVE / Profesorado
+**Focus:** Latin American and Spanish-language educational research — policy, practice, and teacher training
+**Bar:** Solid contribution to regional educational debates; methodological rigor expected but somewhat more flexible on scope/novelty bar than top international journals.
+**Domain referee adjusts:** Regional/institutional context (Argentina, UNSAM) valued as situating detail, not a limitation. Policy relevance for teacher training programs appreciated.
+**Methods referee adjusts:** Qualitative methodology (representaciones sociales, análisis temático) is mainstream and well understood by referees in this pool — less need to justify the paradigm itself, more need to show rigor in execution (muestreo, codificación, triangulación).
+**Typical concerns:** "¿Cuál es el aporte para la formación docente en la región?" "¿Cómo se garantizó el rigor del análisis cualitativo?"
+**Referee pool:** CREDIBILITY (high), POLICY (medium), THEORY (medium), MEASUREMENT (medium), STRUCTURAL (low), SKEPTIC (low)
+
+---
+
 ## Add Your Own Journal
 
 Copy this template and add it above this section:
