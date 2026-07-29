@@ -88,7 +88,7 @@ No survey will be conducted; the thesis committee confirmed the interview-only d
 
 - ~~Encuesta component — HARD GATE (elevated, Revision 2)~~ — **RESOLVED (Revision 3):** no survey will be conducted; committee confirmed interviews alone are sufficient. See §6.6.
 - **Exact transcription status** of the 14-15 interviews (fully transcribed vs. partial) is not stated in any input read for this rebuild — carried forward as an open item in §5 (Threats) below, same caution as the superseded memo's §5.2, but not re-litigated here since it is orthogonal to the theoretical-framework correction that motivated this rebuild.
-- **CFE Uruguay thesis and the two blocked imaginaries-adjacent sources** (Postdigital Science and Education 2025; unidentified Chilean REEC 48 piece) remain unverified — carried forward from the literature review's own flags (see §7, §8).
+- **Moreno 2025 (CFE Uruguay — a final coursework paper, not a master's thesis per the researcher's own correction; surname + initial confirmed via PDF filename) and the two blocked imaginaries-adjacent sources** (Postdigital Science and Education 2025; unidentified Chilean REEC 48 piece) remain incompletely verified — carried forward from the literature review's own flags (see §7, §8).
 
 Proceeding to strategy design.
 

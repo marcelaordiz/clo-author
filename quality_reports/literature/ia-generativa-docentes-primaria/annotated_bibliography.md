@@ -9,7 +9,7 @@ BibTeX entries: `Bibliography_base.bib` (project root) and the mirrored copy in 
 ## Directly related (proximity 5)
 
 - Arigón (2024, thesis, U. Nacional del Comahue, Argentina) — social representations + generative AI, **secondary/middle-level** teachers, Alto Valle region.
-- [UNVERIFIED authorship] CFE Uruguay thesis (2025) — generative AI perceptions/uses/challenges, **primary-level** teachers, Uruguay.
+- Moreno, S. (2025) — generative AI perceptions/uses/challenges, **primary-level** teachers, Uruguay. **Not a master's thesis** — a final coursework paper (trabajo final de materia) at CFE Uruguay, per the researcher's own correction. Surname + first initial confirmed via PDF filename; full given name still unverified.
 - Calleja & Camilleri (2025, IJLLS) — primary school teachers' perceptions of generative AI via lesson study, Malta (TAM lens, not SRT).
 
 ## Closely related, different angle (proximity 4)

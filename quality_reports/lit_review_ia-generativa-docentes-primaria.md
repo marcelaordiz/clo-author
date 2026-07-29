@@ -350,6 +350,7 @@ Este es precisamente el espacio de intersección que ocupa la tesis de UNSAM.
 - **Latinoamericanas:** 16 (incluye 3 estudios que combinan explícitamente representaciones sociales + IA generativa)
 - **Internacionales (no LatAm):** 9
 - **Fundamentos teóricos/metodológicos (transversales, sin región/nivel aplicable):** 6
-- **Nivel primario/elemental explícito:** 5 (CFE Uruguay [no verificado], Calleja & Camilleri, Han et al., Yu/Lee/Kim, y parcialmente el corpus K-12 de las dos revisiones sistemáticas)
-- **Proximidad 5 (compiten directamente):** 3 (Arigón; tesis CFE Uruguay; Calleja & Camilleri)
-- **Entradas marcadas NO VERIFICADO:** 2 (tesis CFE Uruguay — autoría; revisión Discover AI 2026 — autoría) + 1 dato parcial (año de Arigón)
+- **Nivel primario/elemental explícito:** 5 (Moreno 2025/CFE Uruguay [autoría parcialmente verificada — no es tesis, ver nota abajo], Calleja & Camilleri, Han et al., Yu/Lee/Kim, y parcialmente el corpus K-12 de las dos revisiones sistemáticas)
+- **Proximidad 5 (compiten directamente):** 3 (Arigón; Moreno 2025/CFE Uruguay; Calleja & Camilleri)
+- **Nota (actualizada por la investigadora):** el ítem "CFE Uruguay" **no es una tesis de maestría** sino un **trabajo final de materia** de una docente (Moreno, S.) presentado en un curso del CFE — corrección confirmada directamente por la investigadora, apellido e inicial confirmados vía nombre de archivo del PDF (repositorio.cfe.edu.uy/handle/123456789/3657). Sigue siendo citable como antecedente por nivel educativo, pero de menor peso académico que una tesis de posgrado.
+- **Entradas marcadas NO VERIFICADO:** 1 (revisión Discover AI 2026 — autoría) + 1 dato parcial (año de Arigón) + 1 dato parcial (nombre completo de Moreno, S.)

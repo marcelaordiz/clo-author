@@ -15,7 +15,7 @@ Documento consolidado que unifica la revisión original (`lit_review_ia-generati
 ## 1. Antecedentes directos (mismo objeto casi exacto: representaciones/percepciones docentes + IA generativa)
 
 - **Arigón (2024, tesis, U. Nacional del Comahue, Argentina)** — representaciones sociales + IA generativa, docentes de **secundaria**, región Alto Valle.
-- **[NO VERIFICADO autoría] Tesis CFE Uruguay (2025)** — percepciones/usos/desafíos de IA generativa, docentes de **primaria**, Uruguay. *El competidor más cercano por nivel educativo — verificar cuanto antes.*
+- **Moreno, S. (2025)** — "La integración de la inteligencia artificial generativa en las prácticas docentes: percepciones, usos y desafíos en la educación primaria" — **trabajo final de materia** (no tesis de maestría — corregido por la investigadora), Consejo de Formación en Educación (CFE), Uruguay, docentes de **primaria**. Repositorio: repositorio.cfe.edu.uy/handle/123456789/3657. *Antecedente citable por nivel educativo, pero de menor peso académico que una tesis de posgrado — no compite como tesis rival, sí como antecedente temático cercano.*
 - **Calleja & Camilleri (2025, IJLLS)** — percepciones de docentes de primaria sobre IA generativa vía lesson study, Malta (marco TAM, no representaciones sociales).
 
 ## 2. Antecedentes cercanos, ángulo distinto (proximidad alta)
@@ -92,7 +92,7 @@ Documento consolidado que unifica la revisión original (`lit_review_ia-generati
 
 | Ítem | Estado | Acción recomendada |
 |------|--------|---------------------|
-| Tesis CFE Uruguay (2025) | Autoría no verificada | Conseguir texto completo — es tu competidor más cercano |
+| Moreno, S. (2025, CFE Uruguay) | Nombre completo de la autora sin confirmar (solo apellido + inicial); es trabajo final de materia, no tesis | Conseguir texto completo para confirmar marco analítico exacto — sigue siendo el antecedente más cercano por nivel educativo, aunque de menor peso académico de lo que se asumía |
 | Postdigital Science and Education (2025) | Acceso bloqueado (403) | Verificar antes de escribir — mayor riesgo de scooping |
 | Artículo chileno REEC 48 (2025) | Autoría no verificada | Confirmar si es IA generativa específica o TIC en general |
 | Caldeiro, Odetti y Ordiz (2024) | Paginación no reconciliada | Confirmar tu propia paginación exacta en las actas |
