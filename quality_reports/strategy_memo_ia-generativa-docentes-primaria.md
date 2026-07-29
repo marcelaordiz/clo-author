@@ -10,6 +10,9 @@
 
 `quality_reports/decisions/strategy_ia-generativa-docentes-primaria.md` updated to match (new Alternative 7 + terminological clarification + risk-table row).
 
+**Revision 3 (2026-07-28) — encuesta gate resolved by researcher:**
+No survey will be conducted; the thesis committee confirmed the interview-only design (N=14-15) is sufficient. The researcher's own prior-study survey (Caldeiro, Odetti y Ordiz 2024) was considered for reuse but was scoped to *construcción de materiales didácticos*, not to representations — recommended for citation in Antecedentes only, not as a second primary data source. See **§6.6** (rewritten) and the Missing Inputs list (item struck through as resolved).
+
 **Paper type:** Descriptive / interpretive (qualitative) — primary type. No reduced-form, IV, RDD, or structural (econometric) component. Secondary component: none (theorist agent not applicable per domain-profile.md).
 **Primary analytic strategy:** Teoría Fundamentada (Grounded Theory) — categorización deductiva (cuatro núcleos teóricos: representaciones sociales clásicas Moscovici/Jodelet, aprendizaje significativo de Ausubel, alfabetización digital docente de Lankshear & Knobel, imaginarios sociotécnicos de Jasanoff & Kim reinterpretados crítico-materialmente por Saura, Lima & Arguelho 2024) + codificación abierta/inductiva + comparación constante. Los imaginarios sociotécnicos se tratan como **dimensión analítica activa**, rastreada dentro del propio discurso docente, no solo como telón de fondo teórico.
 
@@ -83,7 +86,7 @@
 
 ### Missing Inputs
 
-- **Encuesta component — HARD GATE (elevated, Revision 2):** mentioned in the thesis plan's Introducción and budgeted in the Cronograma (Mes 4-5, the identical window as the interviews — p. 17-18) but never operationalized in the Estrategia metodológica, and not listed in domain-profile.md's current data sources. See §6.6 for the confirmation questions that must be resolved before the writer phase begins — this is no longer a soft caveat.
+- ~~Encuesta component — HARD GATE (elevated, Revision 2)~~ — **RESOLVED (Revision 3):** no survey will be conducted; committee confirmed interviews alone are sufficient. See §6.6.
 - **Exact transcription status** of the 14-15 interviews (fully transcribed vs. partial) is not stated in any input read for this rebuild — carried forward as an open item in §5 (Threats) below, same caution as the superseded memo's §5.2, but not re-litigated here since it is orthogonal to the theoretical-framework correction that motivated this rebuild.
 - **CFE Uruguay thesis and the two blocked imaginaries-adjacent sources** (Postdigital Science and Education 2025; unidentified Chilean REEC 48 piece) remain unverified — carried forward from the literature review's own flags (see §7, §8).
 
@@ -319,18 +322,13 @@ Per the corrected `positioning.md` and the addendum literature review, the claim
 
 Already addressed mechanically in §2.4, Step 4: the design explicitly limits imaginaries claims to echo/departure from a specific, light reference-corpus marker list, not a freestanding characterization of "the" national imaginary. Restated here as a limitation: because the Guía 2025 and Educ.ar survey are read once and not exhaustively coded, the marker list itself may be incomplete or may miss shifts in official discourse not captured in these two documents. This is a bounded-scope decision (appropriate for a master's thesis), not an oversight, but it should be named as a limitation, not silently assumed away.
 
-### 6.6 Encuesta component — HARD GATE: must confirm with researcher before writer phase (elevated, Revision 2)
+### 6.6 Encuesta component — RESOLVED (Revision 3): no survey, interviews-only design confirmed
 
-As noted in the Pre-Strategy Report, the thesis plan's Introducción mentions a mixed encuesta + entrevista design ("se empleará una combinación de encuesta y entrevistas semi estructuradas"), but the Estrategia metodológica section that follows only operationalizes the interview component (N=10, sampling criteria, four ejes). **The prior version of this memo treated this as a soft internal tension in the source document; on closer reading of the thesis plan's own Cronograma (p. 17-18), that framing was too soft and is corrected here.**
+**Gate closed.** The researcher confirmed directly: no encuesta will be conducted. The thesis committee reviewed the design and confirmed the interview-only data collection (N=14-15) is sufficient — the encuesta budgeted in the original Cronograma (Mes 4-5) was dropped as a scope decision, not an oversight. This is now stated as an explicit, deliberate scope change from the original plan, not silently passed over.
 
-The Cronograma allocates **"Realización de encuestas" the identical two-month window (Mes 4-5) as "Realización de entrevistas"** — both immediately follow "Selección y contacto con participantes" (Mes 3) and immediately precede "Análisis de datos" (Mes 5-6). This is direct documentary evidence that the encuesta was budgeted as a real, parallel, resourced data-collection activity in the original plan — not optional color confined to the Introducción.
+**On reusing the survey instrument from the researcher's own prior study:** the researcher noted that Caldeiro, Odetti y Ordiz (2024) — her own foundational prior publication — included a survey component, and asked whether it could be revisited if it adds something to this thesis. Per the researcher's own account, that survey was scoped to **la construcción de materiales didácticos** (the construction of didactic materials), not to teacher representations of IAG as an interpretive/social object. This is a materially different analytic object from the present thesis's RQ (representations of IAG's potential for meaningful learning). **Recommendation: do not fold the 2024 survey data into this thesis's primary analysis** — the instruments were built to answer a different question, and retrofitting survey items designed for material-construction purposes as evidence about representations risks a construct-validity mismatch (the survey wasn't designed to elicit objetivación/anclaje, imaginary-echo, or meaningful-learning conceptions). **It may be legitimately cited/discussed in the Antecedentes/Estado del arte section** as part of the researcher's own prior work (already documented in domain-profile.md and positioning.md), but should not be treated as a second primary data source for this thesis's empirical chapter unless the researcher explicitly re-reads its items and finds specific questions that directly overlap with the four ejes here — a check that is optional, not a gate, given the primary design is now settled on interviews alone.
 
-**This is now a hard pre-writer-phase gate, not a soft caveat.** Before the writer phase begins, the researcher must confirm explicitly:
-1. **Was the encuesta actually administered alongside the interviews?**
-2. **If yes** — where is the survey data, what instrument was used, what is its N, and how does it enter the analysis plan? It would need its own data-assessment entry, its own place in §2's analysis plan as a mixed-methods component, and its own treatment in transferability/limitations — none of which this memo currently specifies, because domain-profile.md's current data inventory lists only interviews as in-hand.
-3. **If no** — why was it dropped between the plan (when the Cronograma was written) and the current data state, and should this be stated explicitly as a scope change in the methods section, rather than silently proceeding as if only interviews were ever planned?
-
-**Until this is confirmed, this memo's design proceeds on interviews as the sole primary data source** (consistent with domain-profile.md's current data inventory), but this is now flagged as a provisional scope decision pending confirmation, not a settled one. If survey data does exist, the data-assessment picture and this memo's design would need material updating — this is not a minor footnote-level correction.
+**Design proceeds on interviews as the sole primary data source**, final (not provisional). Remove this item from the Missing Inputs / hard-gate list below.
 
 ---
 
