@@ -50,19 +50,35 @@
 | `voz_experiencial_propia` | El segmento expresa sentido construido desde la propia experiencia, no un eco institucional | La docente habla desde un episodio concreto, propio, no desde una consigna oficial |
 | `eco_imaginario_mercantil_mediatico` (inductivo — agregar solo si aparece) | Eco de discurso comercial/mediático sobre IA (marketing de empresas tech, discurso periodístico genérico) | Aparecen frases tipo "dicen que va a cambiar todo", referencias a lo que "se ve en las noticias" |
 
-### Lista de marcadores v0 del imaginario oficial (provisoria — a refinar)
+### Lista de marcadores v1 del imaginario oficial (fuentes primarias, tres niveles)
 
-Extraída de una primera lectura de la Guía 2025 (PaideIA) y el informe Educ.ar 2025. **Importante:** el acceso directo a la Guía 2025 estuvo bloqueado durante la búsqueda bibliográfica (error 403 del proxy hacia el dominio .gob.ar) — esta lista se arma con lo confirmado por fuentes secundarias y debe **revisarse/completarse cuando puedas leer el documento completo vos misma**. Es un instrumento vivo: agregá marcadores nuevos a medida que codificás, con fecha.
+**Revisión 2026-07-31:** reemplaza la lista v0 (armada con fuentes secundarias, ya que el acceso directo estuvo bloqueado). La investigadora compartió el texto completo de los 4 documentos oficiales — ahora la lista sale de lectura directa, organizada por nivel (global/nacional/jurisdiccional), tal como distingue Saura, Lima & Arguelho (2024). Sigue siendo un instrumento vivo: agregá marcadores nuevos a medida que codificás, con fecha.
 
-- "aprendizaje personalizado"
-- "acompañamiento docente" (no reemplazo del docente)
-- "uso responsable/ético"
-- "necesidad de formación/capacitación"
-- "brecha de formación"
-- "integración progresiva"
-- "eficiencia"
+**Fuentes primarias** (guardadas en `master_supporting_docs/supporting_papers/`):
+- **UNESCO (global):** Holmes, W., Hui, Z., Miao, F. & Ronghuai, H. (2021). *Inteligencia artificial y educación: Guía para las personas a cargo de formular políticas*. `UNESCO_Holmes_2021_IA_educacion.pdf`
+- **Nación (Argentina):** Ministerio de Capital Humano, Secretaría de Educación (2025). *Guía para la Integración de las Inteligencias Artificiales en Educación* (Programa PaideIA). `Guia_Nacion_Integracion_IA_Educacion_2025.pdf`
+- **CABA (jurisdiccional — tu propio sitio de investigación):** Ministerio de Educación GCBA (v2.0). *IA en la escuela: Guía para un uso crítico*. `Guia_CABA_uso_critico_v2.pdf` — y su documento complementario *Marco de gobernanza y uso responsable de la inteligencia artificial*. `Marco_gobernanza_CABA_IA.pdf`
 
-**Regla de auditoría:** cada vez que uses `eco_discurso_institucional`, anotá a qué marcador específico corresponde y de qué documento/línea viene — tiene que poder rastrearse, no alcanza con "esto suena institucional".
+| Marcador | Nivel | Fuente | Cita/paráfrasis |
+|---|---|---|---|
+| "uso responsable, ético y efectivo" / "uso crítico, ético y creativo" | Nación / CABA | Guía Nación p.5; Guía CABA p.4 (objetivo) | Formulación casi idéntica en ambos niveles — buen candidato de alta frecuencia esperada |
+| "acompañar" / "acompañamiento docente" (no reemplazo) | Nación / CABA (gobernanza) | Guía Nación §"Impacto en el rol docente"; Marco gobernanza CABA, principio 1 "Humanocentrismo y agencia pedagógica" | "la IA nunca reemplaza... complementa la labor docente sin sustituir el contacto humano" |
+| "potenciar lo humano, no reemplazarlo con IA" | CABA | Guía CABA p.6, principio "Humanismo digital" | Formulación explícita como principio orientador |
+| "el docente tiene que aprender, tiene que actualizarse" / "formación continua" | Nación / CABA (gobernanza) | Guía Nación §"Estrategias para capacitar..."; Marco gobernanza CABA, "Nivel de los docentes" | Ya identificado en la entrevista de P2 |
+| "reducir la carga administrativa" (para "tareas de mayor valor pedagógico: planificación, evaluación formativa, retroalimentación") | CABA (gobernanza) | Marco gobernanza CABA, "Nivel de los docentes", objetivos específicos | Marcador nuevo, muy específico — buen candidato para segmentos donde la docente habla de ahorrar tiempo en corrección/evaluación |
+| "eficiencia" / "agilizar la corrección" / "ahorro de tiempo" | Nación / CABA | Guía Nación §"Evaluación y retroalimentación"; Guía CABA p.5 | Ya usado en P2 ("evaluaciones más rápidas") |
+| "personalización" / "educación personalizada" / "adaptar contenidos al ritmo de cada estudiante" | Los 3 niveles | Presente casi textual en los 3 documentos | Marcador transversal, altísima frecuencia esperada en el discurso oficial |
+| "sesgos" / "sesgo algorítmico" / "alucinaciones" (respuestas incorrectas que parecen coherentes) | Nación / CABA | Guía Nación p.8; Guía CABA glosario | Vocabulario técnico específico — si una docente lo usa tal cual, es un eco fuerte, no genuino desde la experiencia |
+| "brecha(s)" — acceso, formación, infraestructura, digital | Los 3 niveles | Guía Nación p.8 ("brechas en el acceso"); Marco gobernanza CABA, "Equidad e inclusión digital" | Distinguir de la `preocupacion_recursos_materiales_infraestructura` inductiva de P2 — puede solaparse, evaluar caso por caso |
+| "pensamiento crítico" / "las 4C" (creatividad, pensamiento crítico, comunicación, colaboración) | CABA | Guía CABA p.5 | Vocabulario específico de la Guía CABA — marcador de alta especificidad |
+| "protección de datos" / "consentimiento informado" / "privacidad" | Los 3 niveles | Presente en los 3, con cita a Ley 25.326 en Nación y CABA | Poco probable que aparezca espontáneamente en el discurso docente sobre representaciones, pero vigilar |
+| "aliada estratégica" / "IA como aliada" | CABA (gobernanza) | Marco gobernanza CABA, Presentación | Metáfora oficial específica — si una docente usa "aliada" para describir la IA, marcador fuerte |
+| "estrategias desafiantes y auténticas que promuevan aprendizajes que no puedan ser automatizados" / "palabra propia" (Ravela y Cardoner) | CABA (gobernanza) / Nación | Marco gobernanza CABA, "Nivel de los docentes"; Guía Nación p.18-19 | Vocabulario de evaluación auténtica — vigilar si aparece en el eje de aprendizaje significativo |
+| "criterio docente" / "supervisión docente" / "el docente valida y decide" | Los 3 niveles | Marco gobernanza CABA, principio 5; Guía Nación (Matemática, "rol del docente como mediador") | Formulación de resguardo del rol, distinta de "no reemplaza" — vigilar matices |
+
+**Regla de auditoría:** cada vez que uses `eco_discurso_institucional`, anotá a qué marcador específico corresponde, de qué documento y en qué nivel (global/nacional/CABA) — tiene que poder rastrearse, no alcanza con "esto suena institucional". Si un mismo fragmento resuena con marcadores de más de un nivel (por ejemplo, "personalización" aparece en los 3), anotá todos los niveles posibles — no fuerces la elección de uno solo.
+
+**Nota metodológica:** ahora que tenés los 3 niveles con texto real, podés empezar a distinguir si una docente ecoa el discurso **nacional**, el **jurisdiccional** (CABA — el más relevante dado que tu muestra es de CABA), o el **global/UNESCO** — esto puede ser un hallazgo interesante en sí mismo (¿el discurso que más circula entre las docentes porteñas es el de su propia jurisdicción, o llega mediado por el nivel nacional?).
 
 ---
 
