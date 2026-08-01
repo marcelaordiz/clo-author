@@ -75,3 +75,17 @@
 **Score:** 95/100
 **Verdict:** PASS at both Commit (≥80) and PR (≥90) gates. All 4 round-1 fixes independently verified against source files as substantive (not cosmetic) — the four-axis crosswalk genuinely resolves the discrepancy rather than papering over it; positioning.md is clean; the three-group typology and encuesta gate additions are concrete, not token. No new issues introduced. Strategy phase closed — ready for Execution (coder/writer) phase.
 **Report:** `quality_reports/strategy_memo_ia-generativa-docentes-primaria_review.md`
+
+### 2026-08-01 — Strategist (Revision 4 — 5th núcleo formal integration)
+**Phase:** Strategy (re-entry, targeted amendment)
+**Target:** ia-generativa-docentes-primaria — strategy memo, pseudo_code.md, decision record
+**Score:** N/A (see strategist-critic below)
+**Verdict:** Formally integrated the researcher-proposed Núcleo 5 (diseño didáctico y uso pedagógico) and the 3 new Núcleo 4 imaginaries codes into the approved memo: changelog Revision 4, updated "4→5 núcleos" language throughout, extended §1.0 guión-eje crosswalk, added Núcleo 5 to the §2.1 seed-category table with an explicit why-separate-from-Núcleo-2 rationale, added §2.3 (mid-analysis expansion protocol + mandatory retroactive re-coding of P1) and §2.4 (content vs. provenance code distinction). Mirrored in `pseudo_code.md` (codebook_v0 dict, Phase 5 forcing-check loop) and `decisions/strategy_ia-generativa-docentes-primaria.md` (Revision 3 changelog, Alternative 8, Key Assumptions A6/A7). Confirmed Castañeda et al. (2025) citation reflects verified status (no stale UNVERIFIED flags carried over).
+**Report:** `quality_reports/strategy_memo_ia-generativa-docentes-primaria.md` (Revision 4), `quality_reports/strategy/ia-generativa-docentes-primaria/pseudo_code.md`, `quality_reports/decisions/strategy_ia-generativa-docentes-primaria.md`
+
+### 2026-08-01 — Codebook test (manual, P2/P3/P4 — not a pipeline agent)
+**Phase:** Execution (codebook validation, precedes formal Coder/Writer dispatch)
+**Target:** codebook_v0_manual.md + codebook_v0_ia-generativa-docentes-primaria.xlsx, tested against 3 real interviews
+**Score:** N/A (qualitative test, not critic-scored)
+**Verdict:** Codebook holds up against real data. Codes absent in P2 (`objetivacion_imagen_concreta`, `anclaje_figura_humana`) appeared cleanly in P3/P4, confirming variation rather than broken codes. Núcleo 5 (newest, unreviewed at test time) rendered immediately, including a near-textbook match for `criterio_sentido_pedagogico` in P4. `imaginario_inevitabilidad_tecnologica` discriminated postura (matizado in P3 vs. afirmativo in P4). Two inductive candidates logged for researcher validation, not promoted (`eco_de_par_colega`, `mito_estigma_pereza`, both n=1). Núcleo 2 (Ausubel) remains under-productive (0/3 on `limita_integracion_sustantiva`) — flagged for monitoring, consistent with the literature-review-identified Ausubel+IA gap. Raw transcripts anonymized and saved local-only (gitignored), per standing data-privacy convention.
+**Report:** `quality_reports/strategy/ia-generativa-docentes-primaria/codebook_test_P2_P3_P4.md`, Excel workbook updated (Cobertura protocolo, Ancla objetivación, Segmentos codificados, Log códigos inductivos, Saturación — P3/P4 rows)

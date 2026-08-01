@@ -4,6 +4,8 @@
 
 **Revision 2 (2026-07-28) — fix per strategist-critic round 1, Issue 2.1 (MAJOR):** Phase 3 below uses "Eje A-D," this memo's own analytic coding axes derived from the 5 objetivos específicos. These are **not** the same as the guión de entrevista's own, explicitly-named "cuatro ejes de análisis" (representaciones sobre la IAG en educación; preocupaciones y expectativas; concepciones sobre el potencial pedagógico; usos proyectados en propuestas didácticas), stated verbatim in the thesis plan (p. 12) and the Ateneo (§2). See strategy memo §1.0 for the full reconciliation and crosswalk between the two structures. The methods section of the eventual paper describes the interview guide using the real, verbatim guión ejes; "Eje A-D" below is this analysis's own coding-scheme layer, not a restatement of the guión.
 
+**Revision 3 (2026-08-01) — mid-analysis codebook expansion, 5th núcleo (matches strategy memo Revision 4):** Phase 2's `codebook_v0` dict below is extended with 3 new deductive codes under `nucleo4` (`imaginario_inevitabilidad_tecnologica`, `imaginario_desigualdad_estructural`, `imaginario_rol_docente_futuro` — content codes, distinct from the provenance codes already in `nucleo4`) and a new `nucleo5` key (`criterio_sentido_pedagogico`, `criterio_contextual_grupo`, `uso_iai_apoyo_administrativo`, `tension_autoria_impronta`), proposed by the researcher after exploratory coding of P2. Source of truth for exact code wording: `quality_reports/strategy/ia-generativa-docentes-primaria/codebook_v0_manual.md`. Phase 5's per-núcleo forcing check is extended to iterate over núcleos 1-5. The "Castañeda et al. (2025)" citation invoked for 3 of the new codes was initially `% UNVERIFIED` (not in `Bibliography_base.bib`) and has since been verified and added to the bibliography within this same revision (2026-08-01) — see strategy memo §2.1 for the full reference and Decision Record Alternative 8/Key Assumption A7 for the resolution history.
+
 ---
 
 ## Phase 0 — Data Readiness Gate
@@ -59,12 +61,31 @@ codebook_v0 <- {
               relacion_no_lineal_competencia_representacion],  # explicit non-causal rule
 
     # Núcleo 4 — Imaginarios sociotécnicos (activo)
-    nucleo4: [eco_discurso_institucional, voz_experiencial_propia],
+    nucleo4: [eco_discurso_institucional, voz_experiencial_propia,
+              # ^ provenance codes (discursive origin: institutional echo vs. lived experience)
+              imaginario_inevitabilidad_tecnologica, imaginario_desigualdad_estructural,
+              imaginario_rol_docente_futuro],
+              # ^ content codes (added 2026-07-31, Revision 3/strategy-memo-Revision-4) —
+              #   what is represented as inevitable/unequal/role-transforming; can coexist
+              #   with the provenance codes above on the same segment (see strategy memo §2.4 Step 2c)
     nucleo4_optional_inductive: [eco_imaginario_mercantil_mediatico],  # add only if it emerges
+
+    # Núcleo 5 — Concepciones sobre diseño didáctico y uso pedagógico de la IAG
+    # (added 2026-07-31/08-01, researcher-proposed after exploratory coding of P2;
+    #  see strategy memo §2.1 for why this is kept separate from nucleo2: nucleo2 is about
+    #  the STUDENT's learning, nucleo5 is about the TEACHER's planning/design decisions)
+    nucleo5: [criterio_sentido_pedagogico, criterio_contextual_grupo,
+              uso_iai_apoyo_administrativo, tension_autoria_impronta],
 
     # Cross-cutting / structural tags (not a theoretical núcleo, needed for analysis integrity)
     meta: [protocol_block_source (1-7), provenance_flag (deductivo|inductivo, dated)]
 }
+# NOTE (resolved 2026-08-01): 3 of the codes above (imaginario_desigualdad_estructural,
+# uso_iai_apoyo_administrativo, tension_autoria_impronta) cite "Castañeda et al. (2025)" per
+# the researcher's own codebook notes. This citation was initially NOT in Bibliography_base.bib
+# and flagged UNVERIFIED; the researcher subsequently shared the full text and it has been
+# verified and added to Bibliography_base.bib as `Castaneda2025_beyond_tools_power_structures`
+# (strategy memo §2.1 has the full reference). Citable now.
 
 for interview in corpus (n = 14-15, in the order coded):
     read(interview, full=True)
@@ -81,6 +102,16 @@ for interview in corpus (n = 14-15, in the order coded):
 
 codebook_v1 <- merge(codebook_v0, new_codes)
 log_version_diff(codebook_v0, codebook_v1, date, rationale)   # Dependability audit trail
+
+# RETROACTIVE RE-CODING (Revision 3/strategy-memo-Revision-4, mandatory — still open as of this
+# revision, see Decision Record risk table):
+# any interview coded BEFORE 2026-07-31 (e.g., P1) must be revisited against the
+# expanded nucleo4 (3 new codes) and nucleo5 (4 new codes) — the expansion applies
+# retroactively, not only prospectively. Log which interviews were coded against the
+# 4-núcleo scaffold vs. the 5-núcleo scaffold, and when each was re-coded.
+for interview in corpus where coded_date < 2026-07-31:
+    reapply(codebook_v1.nucleo4_new_codes + codebook_v1.nucleo5, interview)
+    log_recoding(interview, date, codes_added)
 ```
 
 ## Phase 3 — Constant Comparison + Axial Category Development
@@ -95,12 +126,14 @@ for each code in codebook_v1:
 # "ejes de análisis" (representaciones / preocupaciones-expectativas / concepciones del
 # potencial pedagógico / usos proyectados, verbatim thesis plan p.12 & Ateneo §2).
 # See strategy memo §1.0 for the full reconciliation crosswalk before using this
-# labeling in any writer-facing output.
+# labeling in any writer-facing output. As of strategy memo Revision 4, Axis D's "usos"
+# half is additionally seeded by nucleo5 (previously covered only by open/inductive coding).
 axial_categories <- group_related_codes(codebook_v1, guided_by=[
     "Eje A: competencias digitales <-> representación",
     "Eje B: conocimientos previos <-> representación del potencial",
     "Eje C: preocupaciones/expectativas",
-    "Eje D: concepción IAG-aprendizaje significativo + usos proyectados en propuestas didácticas"
+    "Eje D: concepción IAG-aprendizaje significativo + usos proyectados en propuestas didácticas
+             (usos half now seeded by nucleo5, strategy memo §1.0/§2.1)"
 ])
 # NOTE: no aula/tareas_docentes domain axis — explicitly dropped, see strategy memo §6.2
 
@@ -124,12 +157,16 @@ report_table(participant_id, first_spontaneous_metaphor)  # standalone table for
 ## Phase 5 — Theoretical Sensitivity vs. Forcing Check
 
 ```text
-for each nucleo in [1, 2, 3, 4]:
+for each nucleo in [1, 2, 3, 4, 5]:  # updated Revision 3/strategy-memo-Revision-4 (was [1,2,3,4])
     n_codes <- count(distinct codes under nucleo)
     n_counter_instances <- count(actively-sought counter-instances under nucleo)
     if n_codes <= 1 and elaboration_is_thin:
         report("este eje aparece subdesarrollado en el corpus", reason_hypothesis)
-        # Do not pad the write-up to force apparent equal richness across núcleos
+        # Do not pad the write-up to make all five núcleos appear equally rich
+    if nucleo == 5:
+        # nucleo5 was added mid-analysis (after P2) — confirm retroactive re-coding
+        # of interviews coded before 2026-07-31 was actually completed (Phase 2 note)
+        confirm(retroactive_recoding_completed=True)
 ```
 
 ## Phase 6 — Saturation Assessment
@@ -172,10 +209,10 @@ for each frequency-style claim ("n docentes mencionaron X"):
 ## Phase 9 — Substantive Theory / Integration
 
 ```text
-integrate(axial_categories, nucleo4_findings, objetivacion_anchor_table)
+integrate(axial_categories, nucleo4_findings, nucleo5_findings, objetivacion_anchor_table)
 articulate(substantive_account_of="cómo se relacionan competencias digitales, conocimientos previos,
-           preocupaciones, y concepción del potencial pedagógico de IAG en el diseño de propuestas
-           didácticas, para docentes de nivel primario de CABA, incluyendo cómo su discurso dialoga
-           con el imaginario oficial/nacional")
+           preocupaciones, concepción del potencial pedagógico, y decisiones de diseño didáctico
+           de IAG en el diseño de propuestas didácticas, para docentes de nivel primario de CABA,
+           incluyendo cómo su discurso dialoga con el imaginario oficial/nacional")
 # This is the GT endpoint: a substantive theory grounded in the data, not a frequency table.
 ```
