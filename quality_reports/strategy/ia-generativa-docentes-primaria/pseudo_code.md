@@ -105,12 +105,17 @@ log_version_diff(codebook_v0, codebook_v1, date, rationale)   # Dependability au
 
 # RETROACTIVE RE-CODING (Revision 3/strategy-memo-Revision-4, mandatory — still open as of this
 # revision, see Decision Record risk table):
-# any interview coded BEFORE 2026-07-31 (e.g., P1) must be revisited against the
-# expanded nucleo4 (3 new codes) and nucleo5 (4 new codes) — the expansion applies
-# retroactively, not only prospectively. Log which interviews were coded against the
-# 4-núcleo scaffold vs. the 5-núcleo scaffold, and when each was re-coded.
-for interview in corpus where coded_date < 2026-07-31:
-    reapply(codebook_v1.nucleo4_new_codes + codebook_v1.nucleo5, interview)
+# any interview coded BEFORE 2026-07-31 (P1, AND P2 — P2 is the interview that triggered
+# this expansion, so it is easy to mistake "already read closely enough to propose the new
+# codes" for "already coded against them," but P2 still needs formal retroactive re-tagging
+# like every other pre-2026-07-31 interview) must be revisited against the expanded nucleo4
+# (3 new content codes) and nucleo5 (4 new codes) — the expansion applies retroactively, not
+# only prospectively. Log which interviews were coded against the 4-núcleo scaffold vs. the
+# 5-núcleo scaffold, and when each was re-coded.
+nucleo4_new_content_codes <- [imaginario_inevitabilidad_tecnologica,
+                               imaginario_desigualdad_estructural, imaginario_rol_docente_futuro]
+for interview in corpus where coded_date < 2026-07-31:  # includes P1 and P2
+    reapply(nucleo4_new_content_codes + codebook_v1.nucleo5, interview)
     log_recoding(interview, date, codes_added)
 ```
 

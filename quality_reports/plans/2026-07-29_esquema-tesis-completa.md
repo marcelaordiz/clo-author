@@ -45,7 +45,7 @@ Ya tiene esquema propio en `2026-07-29_estructura-marco-teorico-antecedentes.md`
 3. IA Generativa (definición técnica)
 4. Aprendizaje significativo (Ausubel)
 5. Alfabetización digital docente (Lankshear & Knobel; Dussel)
-6. Diseño de propuestas didácticas (Palamidessi & Gvirtz; Perkins; Larrosa)
+6. Diseño de propuestas didácticas (Palamidessi & Gvirtz; Perkins; Larrosa) — este es el anclaje teórico del **Núcleo 5** analítico (agregado a la memo de estrategia, Revision 4, 2026-08-01)
 
 ## Capítulo 2 — Antecedentes / Estado del Arte
 
@@ -53,10 +53,10 @@ Ya tiene esquema propio en el mismo documento — organizado en tu tipología de
 
 ## Capítulo 3 — Diseño Metodológico
 
-Este capítulo lo arma casi entero la memo de estrategia (`strategy_memo_ia-generativa-docentes-primaria.md`, 95/100) — acá solo hay que trasladarlo a prosa de tesis:
+Este capítulo lo arma casi entero la memo de estrategia (`strategy_memo_ia-generativa-docentes-primaria.md`, Revision 4, 92/100 en su última revisión dirigida — ver `strategy_memo_ia-generativa-docentes-primaria_review.md` Round 3 para el detalle) — acá solo hay que trasladarlo a prosa de tesis:
 
 1. **Paradigma y enfoque:** cualitativo, interpretativo (Vasilachis, Patton, Creswell — ya citados en tu plan)
-2. **Diseño analítico:** Teoría Fundamentada — categorización deductiva (4 núcleos) + inductiva/emergente, comparación constante
+2. **Diseño analítico:** Teoría Fundamentada — categorización deductiva (**5 núcleos**, agregado el Núcleo 5 — diseño didáctico — en Revision 4) + inductiva/emergente, comparación constante
 3. **Población y muestra:** historia completa y honesta — diseño original N=10 intencional (familiaridad digital, área curricular, gestión pública/privada) → ampliación a 14-15 por pedido del comité, con componente de conveniencia en la segunda ola. Tabla de descripción densa de participantes (perfil, sin datos identificatorios)
 4. **Técnica de producción de datos:** entrevista semiestructurada, protocolo de 7 bloques (ver Anexo), los 4 ejes reales de análisis (representaciones sobre IAG; preocupaciones/expectativas; concepciones del potencial pedagógico; usos proyectados)
 5. **Imaginarios sociotécnicos como dimensión analítica activa:** cómo se opera esto — corpus liviano de referencia (Guía 2025, Educ.ar), códigos `eco_discurso_institucional` / `voz_experiencial_propia`, con el resguardo explícito contra sobre-inferir el nivel macro desde el corpus micro
