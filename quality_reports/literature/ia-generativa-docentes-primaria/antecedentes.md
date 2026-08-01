@@ -31,6 +31,7 @@ Documento consolidado que unifica la revisión original (`lit_review_ia-generati
 
 - **Jasanoff & Kim (2015)** — *Dreamscapes of Modernity* — definición canónica.
 - **Saura, Lima & Arguelho (2024, JOSPOE)** — reinterpretación crítica/materialista (gramsciana) para educación — **marco adoptado explícitamente**.
+- **Castañeda, Postigo-Fuentes & Arroyo-Sagasta (2025, REEC 48 extra)** — "Beyond Tools, Toward Power Structures: A Critical Review of AI in Primary Education" — revisión crítica de 23 estudios sobre IA en **educación primaria** con marco de 7 dimensiones (instrumental, epistemológica, ética, social, política, comercial, ideológica). **Verificado** (texto completo compartido por la investigadora, 2026-08-01) — mismo número especial REEC 48 que Fuertes-Alpiste y Estormovski, pero foco específico en primaria (más cercano a esta tesis que los otros dos). Usado para fundamentar 3 códigos del Núcleo 5 (diseño didáctico).
 - **Dussel & Williams (2023, Profesorado)** — imaginarios sociotécnicos en política educativa digital, México — precedente metodológico más cercano para analizar imaginarios en política educativa latinoamericana (documentos, no entrevistas docentes).
 - **Fuertes-Alpiste (2025, REEC)** — imaginario de IA generativa para "colaboración cognitiva" vs. "sustituta del docente", análisis documental UE/UNESCO/OCDE.
 - **Estormovski (2025, REEC)** — imaginarios sociotécnicos y futuro de la enseñanza. *Nivel/objeto sin confirmar — acceso bloqueado.*
