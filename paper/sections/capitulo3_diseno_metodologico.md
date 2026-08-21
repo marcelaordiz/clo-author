@@ -40,7 +40,7 @@ La población de referencia son docentes de nivel primario en ejercicio en escue
 
 Es importante reportar ambos componentes de manera explícita y sin sobreclamar ni subestimar ninguno de los dos: la muestra no fue seleccionada en su totalidad según el diseño intencional original —esto sería una afirmación más fuerte de lo que efectivamente ocurrió— pero tampoco es una muestra de conveniencia pura desde el inicio, ya que los primeros diez casos sí respondieron a criterios de heterogeneidad explícitos, lo cual es un activo metodológico real. La tabla de descripción densa de participantes (Anexo D) incluye una columna que identifica si cada caso proviene de la ola intencional original o de la ola de expansión, de modo que el lector pueda evaluar dónde el argumento de heterogeneidad es más fuerte y dónde es más débil.
 
-**Estado actual del trabajo de campo:** al momento de escribir este capítulo, se cuenta con 13 entrevistas transcriptas y codificadas en su totalidad, y se han sumado dos docentes adicionales que aceptaron participar, con lo cual se espera alcanzar o superar el objetivo de 15 casos solicitado por el comité. Este número se actualizará en la versión final del capítulo una vez concretadas ambas entrevistas.
+**Estado actual del trabajo de campo:** al momento de escribir este capítulo, se cuenta con 14 entrevistas transcriptas y codificadas en su totalidad (P1-P13 y P15), y resta una entrevista adicional (P14) para alcanzar el objetivo de 15 casos solicitado por el comité. Este número se actualizará en la versión final del capítulo una vez concretada la entrevista restante.
 
 ## 3.4 Técnica de producción de datos
 
