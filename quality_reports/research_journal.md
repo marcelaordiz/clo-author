@@ -124,3 +124,10 @@
 **Score:** N/A
 **Verdict:** Investigadora confirma: (1) Eugenia (P15) no fue alumna propia, sí fue estudiante de la directora de tesis -- vínculo indirecto/institucional, distinto del vínculo directo de P8/P10/P13, registrado como subcategoría propia en la planilla de reflexividad; (2) el candidato inductivo `etica_regulacion_autonomia_infantil` (n=1) no se promueve a código nuevo -- se absorbe en `eco_discurso_institucional`, con nota explícita conservada en `codebook_v0_manual.md` (Núcleo 4) para no perder el matiz (autonomía infantil como condición previa al uso de cualquier tecnología). Pendiente aún: si la ausencia de `uso_iai_apoyo_administrativo` y `tension_autoria_impronta` en P15 refleja el perfil de la docente (teatro/producción creativa) o un hueco de indagación.
 **Report:** `quality_reports/strategy/ia-generativa-docentes-primaria/codificacion_P15.md` (actualizado), `codebook_v0_manual.md` (changelog + nota en Núcleo 4), Excel actualizado (Reflexividad, Segmentos codificados -- fila P15)
+
+### 2026-08-05 — Validación de la investigadora sobre P15 (pregunta 3, cobertura)
+**Phase:** Execution (validación de codificación)
+**Target:** codificacion_P15.md
+**Score:** N/A
+**Verdict:** Investigadora confirma que la ausencia de `uso_iai_apoyo_administrativo` y `tension_autoria_impronta` en P15 se debe a que esas preguntas específicas no se indagaron, no a ausencia del fenómeno. Aplicada la regla de condicionamiento de denominador ya establecida en Cap. 3 §3.4/§6.1: P15 queda fuera del denominador específico de esos dos códigos en cualquier cifra de frecuencia del Cap. 4, aunque el Bloque 6 en general sí esté marcado como administrado. Confirma en un caso concreto que la cobertura Sí/No por bloque es más gruesa que la cobertura real pregunta por pregunta -- ya anticipado por el texto del Cap. 3 ("bloque o la pregunta correspondiente"), sin necesidad de reescritura.
+**Report:** `quality_reports/strategy/ia-generativa-docentes-primaria/codificacion_P15.md` (§6, punto 3, actualizado)
