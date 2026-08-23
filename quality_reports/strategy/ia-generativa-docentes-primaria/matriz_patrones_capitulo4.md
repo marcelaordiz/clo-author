@@ -79,6 +79,8 @@
 
 **Caso negativo/desviante a nombrar:** P13 es la única que sostiene **ambos** códigos en la misma entrevista, sin resolver la tensión hacia un solo lado — potencia Y limita, según el uso — un matiz más rico que la mayoría de los casos, que tienden a un signo dominante. Buen material para complejizar la Discusión en vez de presentar una dicotomía simple.
 
+**Hallazgo adicional (relectura 2026-08-07, ver `relectura_producto_proceso_aprendizaje.md`) — producto/proceso vs. aprendizaje articulado:** de los 7 ejemplos concretos de uso narrados en todo el corpus (P1, P3 ×2, P7, P8, P15 ×2), **ninguno articula qué comprendió o logró efectivamente el estudiante** — todos se agotan en qué se produjo o cómo se usó la herramienta (código inductivo `ejemplo_centrado_producto_proceso`, 5/15). Búsqueda activa de la contraparte (`aprendizaje_explicitado_en_ejemplo`) dio **0/15**. Dos matices que enriquecen esto, no lo simplifican: (a) P1 y P9 sí nombran el aprendizaje, pero como razón para **rechazar** el uso de IA, no como efecto de usarla; (b) P12 aporta el dato más fuerte de todo el corpus en cualquier dirección — evidencia **observada de que el aprendizaje no ocurrió** (estudiantes que copiaron de la IA repitieron sin darse cuenta una palabra-trampa oculta en la consigna). **Lectura propuesta para la Discusión:** "aprendizaje significativo" funciona en este corpus más como marco aspiracional que organiza el criterio de diseño (coherente con que `criterio_sentido_pedagogico` sea el código más frecuente, ver §4.4) que como algo que las docentes puedan evidenciar desde su propia práctica — límite epistemológico a declarar explícitamente, no a dejar implícito.
+
 ---
 
 ## 4.4 — Usos proyectados en el diseño de propuestas didácticas
