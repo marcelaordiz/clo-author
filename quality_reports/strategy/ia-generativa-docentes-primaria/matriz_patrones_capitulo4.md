@@ -90,7 +90,10 @@
 | Código | Frecuencia | Lectura |
 |---|---|---|
 | `criterio_sentido_pedagogico` | **11/15 — el código de mayor frecuencia de todo el corpus** (P3,P4,P5,P7,P8,P9,P10,P12,P15,P1,P14) | Confirma la predicción del codebook desde el procesamiento exploratorio inicial |
-| `criterio_contextual_grupo` | 10/15 (P3,P4,P6,P7,P8,P9,P12,P15,P1,P14) | Al menos dos variantes distintas de "contexto": **etaria** (P15, P1) y **heterogeneidad de competencias dentro del grupo** (P14) — vale la pena distinguirlas en el texto |
+| `criterio_contextual_grupo` (desglosado, relectura 2026-08-07) | Ver desglose abajo | El código paraguas en realidad mezclaba tres fenómenos distintos — ver `relectura_ciclo_heterogeneidad.md` para el detalle completo y la corrección de una lectura previa demasiado apresurada |
+| ↳ `criterio_etario_ciclo` (inductivo) | **7/15, dividido: 4 exclusión (P1,P6,P9,P15) vs. 3 contra-instancia (P3,P4,P12)** | **Tensión real en el corpus, no consenso** — 4 participantes limitan/excluyen primer ciclo por edad; 3 rechazan explícitamente esa lógica (P4: *"independientemente del grado"*; P12: adapta con trabajo "desenchufado" en vez de excluir). Presentar como debate A/B en el Cap. 4, no como tendencia única |
+| ↳ `criterio_heterogeneidad_competencias_grupo` (inductivo) | 1/15 (P14) | Código delgado — diferencia de manejo técnico dentro de un mismo grado, distinto de ciclo. No forzar, reportar como está |
+| ↳ Adaptación a estudiante individual (P7, P8) | 2/15 | Ya cubierto por `adaptacion_saberes_previos` (Núcleo 2) — no es ciclo ni heterogeneidad grupal, retirar del conteo de `criterio_contextual_grupo` |
 | `uso_iai_apoyo_administrativo` | 8/15 (P4,P5,P7,P8,P10,P13,P1,P14) | Incluye un caso híbrido (P1, proyecto para concurso Cooperar — entre gestión institucional y diseño de propuesta) |
 | `tension_autoria_impronta` | 4/15 (P9,P10,P1,P14) | Dos registros distintos: **autorreferido** (P9, P10, P1 — sobre la propia práctica de planificación) vs. **generalizado/filosófico** (P14 — sobre "lo humano" en general) — no tratarlos como intercambiables en el Cap. 4 |
 
