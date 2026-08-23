@@ -104,4 +104,4 @@
 2. ¿Estás de acuerdo con la lectura de saturación teórica alcanzada (§5), con la salvedad del hallazgo modificado de `eco_imaginario_mercantil_mediatico`?
 3. ¿Confirmás la promoción de `eco_de_par_colega` (n=3) al codebook formal?
 4. Sobre el caso borderline de P1 en `eco_discurso_institucional` (pedido de capacitaciones, ¿eco o demanda crítica?) — ¿lo incluís en el conteo o lo dejás afuera como quedó acá?
-5. Para la tabla de descripción densa final: ¿qué ola muestral corresponde a cada una de las 15 participantes (intencional original N=10 vs. expansión por conveniencia)?
+5. **RESUELTO (2026-08-06):** P1-P10 = ola intencional original; P11-P15 = ampliación por conveniencia solicitada por el comité. Tabla completa armada en `paper/supplementary/anexo_d_descripcion_densa_participantes.md`, con la columna de vínculo previo cruzada — dato notable: 3 de las 4 participantes con vínculo directo (P8, P10, P13) son de la ola original.
