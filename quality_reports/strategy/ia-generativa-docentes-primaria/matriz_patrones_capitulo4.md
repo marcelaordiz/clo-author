@@ -10,7 +10,7 @@
 
 ## 4.1 — Representaciones sobre la IAG en educación (objetivación/anclaje)
 
-**Núcleo que alimenta:** Núcleo 1 (SRT clásica, Moscovici/Jodelet).
+**Dimensión que alimenta:** Dimensión 2 — Conocimientos previos sobre IAG (OE2), fundamento teórico en SRT clásica, Moscovici/Jodelet.
 
 | Código | Frecuencia (n/15) | Lectura |
 |---|---|---|
@@ -31,13 +31,13 @@
 | P6 | "Es una aplicación... está educada digitalmente... para darte una respuesta" [10:32] | Metáfora educativa (la IA como "educada") |
 | P3 | "Es un recurso accesible... te organiza esa idea" [06:54] | Funcional simple |
 
-**Citable para la Discusión:** la única "definición" que rompe el patrón asistente/subordinado es la técnica (P13, P14) — quienes describen *cómo funciona* la IA, en vez de compararla con algo o alguien, no la ubican en un lugar relacional (par, asistente, amenaza) sino en un lugar de mecanismo. Vale la pena preguntarse si esto se relaciona con su alta formación específica (ambas tienen licenciatura en tecnologías digitales) — diálogo con Núcleo 3 (Alfabetización digital), §4.6 abajo.
+**Citable para la Discusión:** la única "definición" que rompe el patrón asistente/subordinado es la técnica (P13, P14) — quienes describen *cómo funciona* la IA, en vez de compararla con algo o alguien, no la ubican en un lugar relacional (par, asistente, amenaza) sino en un lugar de mecanismo. Vale la pena preguntarse si esto se relaciona con su alta formación específica (ambas tienen licenciatura en tecnologías digitales) — diálogo con Dimensión 1 (Competencias digitales), §4.6 abajo.
 
 ---
 
 ## 4.2 — Preocupaciones y expectativas
 
-**Núcleos que alimentan (transversal, no un único núcleo — consistente con que el diseño no le dio códigos deductivos propios a este eje, ver Cap. 3 §3.6):** Núcleo 2 (`limita_integracion_sustantiva`), Núcleo 3 (`competencia_critica_reflexiva`), Núcleo 4 (`imaginario_desigualdad_estructural`, `imaginario_rol_docente_futuro`, `eco_imaginario_mercantil_mediatico`), y dos códigos inductivos (`preocupacion_recursos_materiales_infraestructura`, `eco_de_par_colega`).
+**Dimensión propia:** Dimensión 3 — Preocupaciones y expectativas (OE3), **sin familia de códigos deductivos propia** (ver Cap. 3 §3.6). Se alimenta de: Dimensión 4 (`limita_integracion_sustantiva`), Dimensión 1 (`competencia_critica_reflexiva`), dimensión transversal de imaginarios (`imaginario_desigualdad_estructural`, `imaginario_rol_docente_futuro`, `eco_imaginario_mercantil_mediatico`), y dos códigos inductivos (`preocupacion_recursos_materiales_infraestructura`, `eco_de_par_colega`).
 
 | Código | Frecuencia | Lectura |
 |---|---|---|
@@ -62,7 +62,7 @@
 
 ## 4.3 — Concepciones sobre el potencial pedagógico (diálogo con Ausubel)
 
-**Núcleo que alimenta:** Núcleo 2 (Aprendizaje significativo).
+**Dimensión que alimenta:** Dimensión 4 — Concepción del potencial pedagógico (OE4), fundamento teórico en Aprendizaje significativo (Ausubel).
 
 | Código | Frecuencia | Lectura |
 |---|---|---|
@@ -85,7 +85,7 @@
 
 ## 4.4 — Usos proyectados en el diseño de propuestas didácticas
 
-**Núcleo que alimenta:** Núcleo 5 (Diseño didáctico y uso pedagógico — el núcleo agregado en Revisión 4).
+**Dimensión que alimenta:** Dimensión 5 — Usos proyectados en el diseño didáctico (OE5), fundamento teórico en diseño didáctico (Palamidessi & Gvirtz) — incorporada durante el propio proceso de análisis (Cap. 3, §3.2.1).
 
 | Código | Frecuencia | Lectura |
 |---|---|---|
@@ -93,7 +93,7 @@
 | `criterio_contextual_grupo` (desglosado, relectura 2026-08-07) | Ver desglose abajo | El código paraguas en realidad mezclaba tres fenómenos distintos — ver `relectura_ciclo_heterogeneidad.md` para el detalle completo y la corrección de una lectura previa demasiado apresurada |
 | ↳ `criterio_etario_ciclo` (inductivo) | **7/15, dividido: 4 exclusión (P1,P6,P9,P15) vs. 3 contra-instancia (P3,P4,P12)** | **Tensión real en el corpus, no consenso** — 4 participantes limitan/excluyen primer ciclo por edad; 3 rechazan explícitamente esa lógica (P4: *"independientemente del grado"*; P12: adapta con trabajo "desenchufado" en vez de excluir). Presentar como debate A/B en el Cap. 4, no como tendencia única |
 | ↳ `criterio_heterogeneidad_competencias_grupo` (inductivo) | 1/15 (P14) | Código delgado — diferencia de manejo técnico dentro de un mismo grado, distinto de ciclo. No forzar, reportar como está |
-| ↳ Adaptación a estudiante individual (P7, P8) | 2/15 | Ya cubierto por `adaptacion_saberes_previos` (Núcleo 2) — no es ciclo ni heterogeneidad grupal, retirar del conteo de `criterio_contextual_grupo` |
+| ↳ Adaptación a estudiante individual (P7, P8) | 2/15 | Ya cubierto por `adaptacion_saberes_previos` (Dimensión 4) — no es ciclo ni heterogeneidad grupal, retirar del conteo de `criterio_contextual_grupo` |
 | `uso_iai_apoyo_administrativo` | 8/15 (P4,P5,P7,P8,P10,P13,P1,P14) | Incluye un caso híbrido (P1, proyecto para concurso Cooperar — entre gestión institucional y diseño de propuesta) |
 | `tension_autoria_impronta` | 4/15 (P9,P10,P1,P14) | Dos registros distintos: **autorreferido** (P9, P10, P1 — sobre la propia práctica de planificación) vs. **generalizado/filosófico** (P14 — sobre "lo humano" en general) — no tratarlos como intercambiables en el Cap. 4 |
 
@@ -111,7 +111,7 @@
 
 ## 4.5 — Imaginarios sociotécnicos rastreados en el discurso docente (eco institucional vs. voz propia)
 
-**Núcleo que alimenta:** Núcleo 4. **Sección transversal** — cruza los cuatro ejes anteriores, no es un quinto eje paralelo (Cap. 3, §3.5).
+**Dimensión que alimenta:** dimensión transversal de imaginarios sociotécnicos. **Sección transversal** — cruza las cinco dimensiones anteriores, no es una sexta dimensión paralela (Cap. 3, §3.5).
 
 | Código | Frecuencia | Lectura |
 |---|---|---|
@@ -145,7 +145,7 @@
 
 ## 4.6 — Relación entre competencias digitales/conocimientos previos y las representaciones (OE1-OE2)
 
-**Núcleo que alimenta:** Núcleo 3 (Alfabetización digital docente) + diálogo con Núcleo 1 (objetivación técnica en P13/P14).
+**Dimensión que alimenta:** Dimensión 1 — Competencias digitales (OE1), fundamento teórico en Alfabetización digital docente + diálogo con Dimensión 2 (objetivación técnica en P13/P14).
 
 | Código | Frecuencia | Lectura |
 |---|---|---|

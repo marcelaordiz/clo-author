@@ -5,43 +5,32 @@
 **Basado en:** `quality_reports/strategy/ia-generativa-docentes-primaria/pseudo_code.md`, Fase 2
 
 **Changelog:**
-- 2026-07-31: reemplazada la lista de marcadores del imaginario oficial (v0 → v1, fuentes primarias). Agregados 3 códigos deductivos a Núcleo 4 (`imaginario_inevitabilidad_tecnologica`, `imaginario_desigualdad_estructural`, `imaginario_rol_docente_futuro`) y creado el **Núcleo 5 — Concepciones sobre diseño didáctico y uso pedagógico de la IAG** (4 códigos), propuestos por la investigadora a partir del procesamiento exploratorio de las primeras entrevistas. Esto pasa el marco teórico de 4 a 5 núcleos — pendiente de reflejar formalmente en `domain-profile.md` y en la memo de estrategia (en curso).
-- 2026-08-07: agregados 2 códigos inductivos a Núcleo 5 — `criterio_etario_ciclo` y `criterio_heterogeneidad_competencias_grupo` — a partir de una observación de la investigadora sobre el criterio de ciclo/edad dentro de `criterio_contextual_grupo`. Relectura formal del corpus completo aplicada, con corrección explícita de una lectura previa apresurada (ver nota en Núcleo 5 y `relectura_ciclo_heterogeneidad.md`).
-- 2026-08-07: agregados 2 códigos inductivos a Núcleo 2 — `ejemplo_centrado_producto_proceso` y su contraparte `aprendizaje_explicitado_en_ejemplo` — a partir de una observación de la investigadora sobre los ejemplos de uso ya codificados. Relectura formal del corpus completo (15/15) aplicada. Ver detalle en `relectura_producto_proceso_aprendizaje.md` y nota en Núcleo 2 de este documento.
-- 2026-08-05: candidato inductivo `etica_regulacion_autonomia_infantil` (propuesto tras P15, n=1) **no promovido** — la investigadora decidió absorberlo en `eco_discurso_institucional` (Núcleo 4), con nota explícita conservada en la definición del código. Ver `codificacion_P15.md` §4/§6 para el detalle.
+- **2026-08-08 — reorganización terminológica (decisión de la directora de tesis):** los códigos deductivos dejan de organizarse en 5 "núcleos" agrupados por autor/teoría y pasan a organizarse en **5 dimensiones**, derivadas directamente del objetivo general y los 5 objetivos específicos del plan de tesis — no del marco teórico en primer lugar. La teoría se conserva como **fundamento teórico secundario** dentro de cada dimensión (no desaparece, deja de ser el criterio organizador principal). Los imaginarios sociotécnicos **quedan como dimensión transversal**, tal como ya estaban descriptos en el Cap. 3 §3.5 — no se convierten en una sexta dimensión paralela. Mapeo completo: antiguo Núcleo 3 (alfabetización digital) → Dimensión 1 (OE1); antiguo Núcleo 1 (representaciones sociales clásicas) → Dimensión 2 (OE2); Dimensión 3 (OE3, preocupaciones/expectativas) es nueva como categoría explícita, pero **no tiene familia deductiva propia** — situación que ya existía antes del cambio (ningún núcleo la cubría) y se mantiene honesta, no se fuerza; antiguo Núcleo 2 (Ausubel) → Dimensión 4 (OE4); antiguo Núcleo 5 (diseño didáctico) → Dimensión 5 (OE5); antiguo Núcleo 4 (imaginarios) → dimensión transversal, sin numeración paralela a las 5. **Este cambio es solo de organización/etiqueta — ningún código, definición, criterio de inclusión ni cita de ejemplo se modificó.** Los documentos históricos de codificación (`codificacion_P*.md`) usan la terminología "núcleo" vigente al momento de su redacción y **no se reescriben** — esta tabla es la referencia de equivalencia:
+
+  | Terminología histórica (`codificacion_P*.md`, hasta 2026-08-07) | Terminología vigente (desde 2026-08-08) |
+  |---|---|
+  | Núcleo 1 — Representaciones sociales clásicas | Dimensión 2 (OE2 — conocimientos previos) |
+  | Núcleo 2 — Aprendizaje significativo | Dimensión 4 (OE4 — concepción del potencial pedagógico) |
+  | Núcleo 3 — Alfabetización digital docente | Dimensión 1 (OE1 — competencias digitales) |
+  | Núcleo 4 — Imaginarios sociotécnicos | Dimensión transversal (sin número) |
+  | Núcleo 5 — Diseño didáctico | Dimensión 5 (OE5 — usos proyectados) |
+  | (sin núcleo propio) | Dimensión 3 (OE3 — preocupaciones/expectativas) |
+
+- 2026-08-07: agregados 2 códigos inductivos a la dimensión de diseño didáctico (hoy Dimensión 5) — `criterio_etario_ciclo` y `criterio_heterogeneidad_competencias_grupo` — a partir de una observación de la investigadora sobre el criterio de ciclo/edad dentro de `criterio_contextual_grupo`. Relectura formal del corpus completo aplicada, con corrección explícita de una lectura previa apresurada (ver nota abajo y `relectura_ciclo_heterogeneidad.md`).
+- 2026-08-07: agregados 2 códigos inductivos a la dimensión de aprendizaje significativo (hoy Dimensión 4) — `ejemplo_centrado_producto_proceso` y su contraparte `aprendizaje_explicitado_en_ejemplo` — a partir de una observación de la investigadora sobre los ejemplos de uso ya codificados. Relectura formal del corpus completo (15/15) aplicada. Ver detalle en `relectura_producto_proceso_aprendizaje.md`.
+- 2026-08-05: candidato inductivo `etica_regulacion_autonomia_infantil` (propuesto tras P15, n=1) **no promovido** — la investigadora decidió absorberlo en `eco_discurso_institucional` (dimensión transversal de imaginarios), con nota explícita conservada en la definición del código. Ver `codificacion_P15.md` §4/§6 para el detalle.
+- 2026-07-31: reemplazada la lista de marcadores del imaginario oficial (v0 → v1, fuentes primarias). Agregados 3 códigos deductivos a la dimensión de imaginarios (`imaginario_inevitabilidad_tecnologica`, `imaginario_desigualdad_estructural`, `imaginario_rol_docente_futuro`) y creada la familia de códigos de **diseño didáctico y uso pedagógico de la IAG** (hoy Dimensión 5, 4 códigos), propuestos por la investigadora a partir del procesamiento exploratorio de las primeras entrevistas.
 - 2026-08-01: **verificada** la cita de Castañeda et al. (2025) — Castañeda, L., Postigo-Fuentes, A. Y. & Arroyo-Sagasta, A. (2025). "Beyond Tools, Toward Power Structures: A Critical Review of AI in Primary Education." *Revista Española de Educación Comparada*, 48 (extra), 73-95. DOI: 10.5944/reec.48.2025.45126. PDF en `master_supporting_docs/supporting_papers/Castaneda_et_al_2025_beyond_tools_power_structures.pdf`. Ya agregada a `Bibliography_base.bib`. Todas las marcas `% UNVERIFIED` de este documento quedan resueltas.
 
 **Cómo usar este documento:** por cada entrevista, leé completa primero (familiarización + memo reflexivo), después codificá segmento por segmento. Cada segmento puede llevar más de un código. Anotá siempre: (a) de qué bloque del protocolo viene, (b) si el código es deductivo (de esta lista) o inductivo (nuevo, que vos agregás), con fecha.
 
 ---
 
-## Núcleo 1 — Representaciones sociales clásicas (Moscovici/Jodelet)
+## Dimensión 1 — Competencias digitales (Objetivo específico 1)
 
-| Código | Definición | Incluir cuando... | Ejemplo de frase tipo |
-|---|---|---|---|
-| `objetivacion_imagen_concreta` | El concepto abstracto "IA generativa" se transforma en una imagen/metáfora concreta | La docente usa una imagen, comparación o metáfora para explicar qué es la IAG | "Es como tener un asistente que..." / "Es una especie de..." |
-| `anclaje_tecnologia_previa` | La IAG se integra a un marco de referencia de tecnologías ya conocidas | Compara la IAG con otra tecnología que ya usaba (buscador, procesador de texto, etc.) | "Es como Google pero que te arma el texto" |
-| `anclaje_figura_humana` | La IAG se ancla comparándola con un rol/figura humana | Compara la IAG con una persona (colega, asistente, alumno, etc.) | "Es como tener un colega que sabe mucho pero no conoce mi aula" |
-
-**Regla de codificación (representación vs. opinión individual):** para que un elemento cuente como parte de una representación *social* (no solo opinión personal), buscá lenguaje de anclaje social generalizador ("se dice", "en general los docentes...", "todos pensamos"). Un comentario idiosincrático de una sola persona sin ese anclaje se anota igual, pero se marca como `opinion_individual` en vez de representación.
-
----
-
-## Núcleo 2 — Aprendizaje significativo (Ausubel)
-
-| Código | Definición | Incluir cuando... | Ejemplo de frase tipo |
-|---|---|---|---|
-| `potencia_integracion_sustantiva` | La docente concibe que la IAG puede ayudar a integrar conocimiento nuevo con saberes previos del estudiante | Menciona que la IAG facilita conectar contenido nuevo con lo que el alumno ya sabe | "Podría ayudar a que el chico relacione esto con lo que ya vio" |
-| `limita_integracion_sustantiva` | La docente concibe que la IAG dificulta o reemplaza esa integración | Menciona que la IAG da respuestas genéricas, no ajustadas al alumno real | "Te tira algo genérico que no tiene que ver con mis chicos" |
-| `adaptacion_saberes_previos` | Menciona explícitamente la posibilidad/imposibilidad de que la IAG se adapte a conocimientos previos concretos de sus estudiantes | Habla de personalización, diagnóstico de nivel, ajuste al grupo real | "No sé si sabe con qué grupo estoy trabajando" |
-| `ejemplo_centrado_producto_proceso` (inductivo, agregado 2026-08-07) | Al describir un ejemplo concreto de uso de IAG en una propuesta didáctica, la docente articula qué se produjo (el producto) o cómo se usó la herramienta (el proceso), pero no qué comprendieron, integraron o lograron los estudiantes como resultado | Hay un ejemplo concreto y narrado (no una opinión general) y el relato se agota en el producto/proceso, sin mención de un resultado de aprendizaje observado o evidenciado | "Hicimos las figuras... y luego los imprimimos en las impresoras 3D" (P15) |
-| `aprendizaje_explicitado_en_ejemplo` (inductivo, agregado 2026-08-07 — contraparte del anterior, código espejo) | La docente sí articula, dentro de un ejemplo concreto, qué comprendió, integró o logró el estudiante como resultado del uso de IAG | Buscar activamente, no solo esperar a que aparezca (regla de forcing/emergencia, §2.3 de la memo de estrategia) | (buscado activamente en la relectura del corpus completo — ver hallazgo abajo) |
-
-**Nota de relectura del corpus completo (2026-08-07):** ambos códigos surgieron de una observación de la investigadora sobre los ejemplos de uso ya codificados — un caso de código inductivo emergiendo de la comparación constante entre casos (§2.2), no de los cinco núcleos deductivos originales. Resultado de la relectura formal: `ejemplo_centrado_producto_proceso` aparece en 5/15 participantes con ejemplo concreto narrado (P1, P3 -- 2 instancias --, P7, P8, P15 -- 2 instancias); `aprendizaje_explicitado_en_ejemplo` **no aparece en ninguna de las 15 entrevistas (0/15)**, buscado activamente. Detalle completo, incluida una tercera categoría hallada durante la búsqueda (evidencia de *ausencia* de aprendizaje, no solo de su no-articulación — P12), en `relectura_producto_proceso_aprendizaje.md`.
-
----
-
-## Núcleo 3 — Alfabetización digital docente (Lankshear & Knobel)
+**Objetivo específico que la origina:** *"Identificar las competencias digitales de los docentes de escuelas primarias de CABA en relación con el uso de herramientas tecnológicas para el diseño de propuestas didácticas orientadas al aprendizaje significativo."*
+**Fundamento teórico secundario:** alfabetización digital docente — Lankshear & Knobel (2008); Dussel (2009).
+**Bloque del protocolo más relevante:** Bloque 2 (competencias digitales/TIC); Bloque 1 (perfil).
 
 | Código | Definición | Incluir cuando... | Ejemplo de frase tipo |
 |---|---|---|---|
@@ -53,7 +42,83 @@
 
 ---
 
-## Núcleo 4 — Imaginarios sociotécnicos (dimensión analítica activa)
+## Dimensión 2 — Conocimientos previos sobre IA generativa (Objetivo específico 2)
+
+**Objetivo específico que la origina:** *"Analizar los conocimientos previos que poseen los docentes sobre algoritmos generativos e inteligencia artificial, y su relación con sus representaciones sobre el potencial de estas herramientas para promover aprendizajes significativos."*
+**Fundamento teórico secundario:** representaciones sociales clásicas — Moscovici (1986); Jodelet (1991, 2011). Procesos de objetivación y anclaje.
+**Bloque del protocolo más relevante:** Bloque 3 (conocimientos previos), especialmente el ancla de objetivación en Bloque 3-Pregunta 1 (ver más abajo).
+
+| Código | Definición | Incluir cuando... | Ejemplo de frase tipo |
+|---|---|---|---|
+| `objetivacion_imagen_concreta` | El concepto abstracto "IA generativa" se transforma en una imagen/metáfora concreta | La docente usa una imagen, comparación o metáfora para explicar qué es la IAG | "Es como tener un asistente que..." / "Es una especie de..." |
+| `anclaje_tecnologia_previa` | La IAG se integra a un marco de referencia de tecnologías ya conocidas | Compara la IAG con otra tecnología que ya usaba (buscador, procesador de texto, etc.) | "Es como Google pero que te arma el texto" |
+| `anclaje_figura_humana` | La IAG se ancla comparándola con un rol/figura humana | Compara la IAG con una persona (colega, asistente, alumno, etc.) | "Es como tener un colega que sabe mucho pero no conoce mi aula" |
+
+**Regla de codificación (representación vs. opinión individual):** para que un elemento cuente como parte de una representación *social* (no solo opinión personal), buscá lenguaje de anclaje social generalizador ("se dice", "en general los docentes...", "todos pensamos"). Un comentario idiosincrático de una sola persona sin ese anclaje se anota igual, pero se marca como `opinion_individual` en vez de representación.
+
+---
+
+## Dimensión 3 — Preocupaciones y expectativas (Objetivo específico 3)
+
+**Objetivo específico que la origina:** *"Describir las preocupaciones y expectativas que manifiestan los docentes respecto al uso de algoritmos generativos para diseñar propuestas didácticas que favorezcan el aprendizaje significativo."*
+**Bloque del protocolo más relevante:** Bloque 4 (preocupaciones/expectativas).
+
+**Esta dimensión no tiene familia de códigos deductivos propia** — situación que ya existía antes de la reorganización terminológica (ningún núcleo la cubría) y se mantiene honesta, sin forzar códigos nuevos solo para llenar la categoría. Se alimenta de:
+- Códigos inductivos: `preocupacion_recursos_materiales_infraestructura`, `eco_de_par_colega`.
+- Códigos de otras dimensiones que aportan contenido de preocupación cuando aparece en Bloque 4: `limita_integracion_sustantiva` (Dimensión 4), `eco_imaginario_mercantil_mediatico`, `imaginario_desigualdad_estructural`, `imaginario_rol_docente_futuro` (dimensión transversal de imaginarios).
+
+---
+
+## Dimensión 4 — Concepción del potencial pedagógico / aprendizaje significativo (Objetivo específico 4)
+
+**Objetivo específico que la origina:** *"Explorar cómo los docentes conciben la relación entre el uso de algoritmos generativos y la promoción de aprendizajes significativos en sus propuestas didácticas."*
+**Fundamento teórico secundario:** aprendizaje significativo — Ausubel (1963).
+**Bloque del protocolo más relevante:** Bloque 5 (IAG y aprendizaje significativo).
+
+| Código | Definición | Incluir cuando... | Ejemplo de frase tipo |
+|---|---|---|---|
+| `potencia_integracion_sustantiva` | La docente concibe que la IAG puede ayudar a integrar conocimiento nuevo con saberes previos del estudiante | Menciona que la IAG facilita conectar contenido nuevo con lo que el alumno ya sabe | "Podría ayudar a que el chico relacione esto con lo que ya vio" |
+| `limita_integracion_sustantiva` | La docente concibe que la IAG dificulta o reemplaza esa integración | Menciona que la IAG da respuestas genéricas, no ajustadas al alumno real | "Te tira algo genérico que no tiene que ver con mis chicos" |
+| `adaptacion_saberes_previos` | Menciona explícitamente la posibilidad/imposibilidad de que la IAG se adapte a conocimientos previos concretos de sus estudiantes | Habla de personalización, diagnóstico de nivel, ajuste al grupo real | "No sé si sabe con qué grupo estoy trabajando" |
+| `ejemplo_centrado_producto_proceso` (inductivo, agregado 2026-08-07) | Al describir un ejemplo concreto de uso de IAG en una propuesta didáctica, la docente articula qué se produjo (el producto) o cómo se usó la herramienta (el proceso), pero no qué comprendieron, integraron o lograron los estudiantes como resultado | Hay un ejemplo concreto y narrado (no una opinión general) y el relato se agota en el producto/proceso, sin mención de un resultado de aprendizaje observado o evidenciado | "Hicimos las figuras... y luego los imprimimos en las impresoras 3D" (P15) |
+| `aprendizaje_explicitado_en_ejemplo` (inductivo, agregado 2026-08-07 — contraparte del anterior, código espejo) | La docente sí articula, dentro de un ejemplo concreto, qué comprendió, integró o logró el estudiante como resultado del uso de IAG | Buscar activamente, no solo esperar a que aparezca (regla de forcing/emergencia) | (buscado activamente en la relectura del corpus completo — ver hallazgo abajo) |
+
+**Nota de relectura del corpus completo (2026-08-07):** ambos códigos de producto/proceso surgieron de una observación de la investigadora sobre los ejemplos de uso ya codificados — un caso de código inductivo emergiendo de la comparación constante entre casos, no de la teoría original. Resultado de la relectura formal: `ejemplo_centrado_producto_proceso` aparece en 5/15 participantes con ejemplo concreto narrado (P1, P3 -- 2 instancias --, P7, P8, P15 -- 2 instancias); `aprendizaje_explicitado_en_ejemplo` **no aparece en ninguna de las 15 entrevistas (0/15)**, buscado activamente. Detalle completo, incluida una tercera categoría hallada durante la búsqueda (evidencia de *ausencia* de aprendizaje, no solo de su no-articulación — P12), en `relectura_producto_proceso_aprendizaje.md`.
+
+---
+
+## Dimensión 5 — Usos proyectados en el diseño de propuestas didácticas (Objetivo específico 5)
+
+**Objetivo específico que la origina:** *"Caracterizar los tipos de usos que los docentes consideran posibles y deseables para los algoritmos generativos en el diseño de propuestas didácticas que potencien el aprendizaje significativo de sus estudiantes."*
+**Fundamento teórico secundario:** diseño didáctico — Palamidessi & Gvirtz (1998); Cabello (2006); Castañeda, Postigo-Fuentes & Arroyo-Sagasta (2025).
+**Bloque del protocolo más relevante:** Bloque 6 (usos proyectados en propuestas didácticas).
+
+**Por qué esta dimensión no se confunde con la Dimensión 4:** la Dimensión 4 (Ausubel) refiere al aprendizaje del *estudiante* — si la IAG ayuda o no a integrar conocimiento nuevo con saberes previos. Esta dimensión refiere a las *decisiones del/de la docente* sobre planificación y diseño de propuestas — un objeto distinto. Mantenerlas separadas es más limpio analíticamente y más fiel al plan de tesis: conecta directamente con el cuarto eje real del guion de entrevista ("usos proyectados en el diseño de propuestas didácticas").
+
+| Código | Definición | Incluir cuando... | Ejemplo de frase tipo |
+|---|---|---|---|
+| `criterio_sentido_pedagogico` | La docente establece que el uso de IAG en una propuesta debe tener un propósito pedagógico claro, no incorporarse por la tecnología en sí misma | Menciona que usa o usaría la IA solo si "suma", si tiene un "para qué", si está al servicio del contenido/aprendizaje y no al revés | "No la uso porque sí, tiene que tener un sentido" / "Primero pienso qué quiero que aprendan y después veo si la IA puede ayudar" |
+| `criterio_contextual_grupo` | La docente toma decisiones sobre el uso de IAG en función de las características concretas de su grupo de alumnos: nivel, necesidades particulares, contexto socioeconómico | Menciona al grupo real como variable que determina si usa o no la IAG, qué actividad diseña, o cómo adapta lo que la IA produce | "Para los que tienen dificultades sí, les adapto el texto" |
+| `uso_iai_apoyo_administrativo` | La docente describe usos de IAG para tareas que no son estrictamente de diseño didáctico: boletines, informes, comunicaciones, planificaciones formales, búsqueda de recursos | Habla de usar la IA para producir documentos institucionales, ahorrar tiempo en tareas de gestión, o generar materiales de uso propio sin intervención directa de los alumnos | "La uso para hacer los comentarios del boletín" / "Me ayuda a armar la planificación más rápido" |
+| `tension_autoria_impronta` | La docente expresa tensión entre usar la IAG para diseñar propuestas y mantener su propia voz, criterio o singularidad como docente | Menciona que no quiere que la IA "reemplace" su forma de hacer las cosas, que le importa que las propuestas "tengan su impronta", o que siente que usar la IA es ceder algo propio | "Me gusta que mis planificaciones sean mías" / "Le doy una idea y ella lo arma, pero después lo tengo que hacer mío" |
+| `criterio_etario_ciclo` (inductivo, agregado 2026-08-07) | La docente toma decisiones sobre el uso de IAG en función del ciclo/edad de sus estudiantes (primer ciclo, 1°-3°, vs. segundo ciclo, 4°-7°) — incluye tanto instancias donde el ciclo limita o excluye el uso, como instancias donde se rechaza explícitamente el ciclo como criterio de exclusión y se opta por adaptar la actividad en vez de descartarla | Menciona explícitamente el ciclo o la edad como razón para usar, no usar, o adaptar el uso de IAG | "Con los más chicos no lo trabajé porque trabajo en primer ciclo" (exclusión) / "Se puede sumar tranquilamente... independientemente del grado" (contra-instancia) |
+| `criterio_heterogeneidad_competencias_grupo` (inductivo, agregado 2026-08-07) | La docente considera la heterogeneidad de competencias digitales entre estudiantes dentro de un mismo grupo/grado (no por ciclo) al planificar el uso de IAG | Habla de diferencias de manejo técnico entre compañeros del mismo grado como variable de planificación, distinto de una diferencia por edad/ciclo | "Hay alumnos que pueden arrastrar muy bien bloques... y hay otros que no, entonces lograr que todos vayan a la par lleva tiempo" |
+
+**Nota de relectura del corpus completo (2026-08-07) — corrige una lectura previa demasiado apresurada:** una primera observación (basada solo en P1 y P15, las dos únicas docentes de "área especial" que dan clase en ambos ciclos) sugería un patrón limpio y uniforme de exclusión de primer ciclo. **La relectura formal del corpus completo lo complica de forma productiva, no lo confirma sin más:** de 7 participantes con un criterio etario/de ciclo explícito, 4 tienden a la exclusión o limitación (P1, P6, P9, P15) pero **3 rechazan explícitamente esa lógica** (P3, P4, P12) — P4 en particular lo verbaliza como principio general ("independientemente del grado"), y P12 muestra un patrón de adaptación diferenciada por ciclo (actividad "desenchufada" primero en primer grado, uso más directo en grados mayores), no de exclusión. El corpus tiene una tensión real entre ambas posturas, no un consenso — detalle completo en `relectura_ciclo_heterogeneidad.md`.
+
+**Notas de uso y referencias teóricas:**
+
+- **`criterio_sentido_pedagogico`** — código con mayor frecuencia esperada según el procesamiento exploratorio hasta ahora. Prestar atención a si el criterio pedagógico es autónomo o es a su vez un eco del discurso institucional (puede coexistir con `eco_discurso_institucional`, especialmente con el marcador "pertinencia pedagógica" del Marco de gobernanza CABA). Ref. teórica: Palamidessi & Gvirtz (1998) — el diseño como prefiguración contextualizada; Cabello (2006) — las representaciones como condicionantes de los usos efectivos.
+- **`criterio_contextual_grupo`** — distinguir de `adaptacion_saberes_previos` (Dimensión 4): ese código refiere a la capacidad de la IA de adaptarse al alumno individual; este captura la **decisión docente** sobre el grupo, no la capacidad de la herramienta. Distinguir también de `criterio_etario_ciclo` y `criterio_heterogeneidad_competencias_grupo` (ambos, más específicos, desagregan lo que este código captura de forma más general — ver relectura). Ref. teórica: Palamidessi & Gvirtz (1998) — diseño situado; Ausubel (1963) — saberes previos como punto de partida (aplicado acá a la decisión docente, no al aprendizaje del alumno).
+- **`uso_iai_apoyo_administrativo`** — distinto de `criterio_sentido_pedagogico` porque no implica necesariamente reflexión sobre el aprendizaje. Puede coexistir con `eco_discurso_institucional` cuando el marcador es "reducir la carga administrativa" (ver Marcadores imaginario, Marco gobernanza CABA). Registrar si la docente distingue o no entre estos usos y los usos pedagógicos con alumnos. Ref. teórica: Castañeda, Postigo-Fuentes & Arroyo-Sagasta (2025, REEC 48, extra) — **verificada**, dimensión instrumental; Cabello (2006).
+- **`tension_autoria_impronta`** — código de alta carga identitaria. Prestar atención a si la tensión se resuelve a favor de la IA, a favor de la docente, o queda sin resolución. Puede coexistir con `competencia_critica_reflexiva` (Dimensión 1). Ref. teórica: Moscovici (1986) — la representación como construcción identitaria; Castañeda, Postigo-Fuentes & Arroyo-Sagasta (2025, REEC 48, extra) — **verificada**, dimensión epistemológica e ideológica.
+
+---
+
+## Imaginarios sociotécnicos — dimensión transversal (dimensión analítica activa)
+
+**No es una sexta dimensión paralela a las cinco anteriores** — cruza las cinco, rastreada dentro del propio discurso docente, no solo como telón de fondo teórico (ver Cap. 3, §3.5).
+**Fundamento teórico secundario:** Jasanoff & Kim (2015); Saura, Lima & Arguelho (2024); Zhai et al. (2021).
 
 | Código | Definición | Incluir cuando... |
 |---|---|---|
@@ -64,7 +129,7 @@
 | `imaginario_desigualdad_estructural` (agregado 2026-07-31) | La docente anticipa o describe que la incorporación de IA va a reproducir o ampliar desigualdades existentes entre escuelas, sectores sociales o docentes con distinto acceso a recursos | Habla de brecha entre escuelas públicas/privadas, entre docentes con/sin formación, como condición que la IA no resuelve o profundiza |
 | `imaginario_rol_docente_futuro` (agregado 2026-07-31) | La docente construye una imagen de lo que será o debería ser el rol docente en un escenario de mayor presencia de IA, más allá de la descripción del presente | Proyecta hacia adelante cómo cambiará la enseñanza, qué hará o dejará de hacer el docente, qué capacidades serán necesarias u obsoletas |
 
-**Ejemplos de frase tipo y notas de uso de los 3 códigos nuevos:**
+**Ejemplos de frase tipo y notas de uso de los 3 códigos de contenido:**
 
 - **`imaginario_inevitabilidad_tecnologica`** — *"Queramos o no, la IA va a estar en las aulas" / "Es algo que va a pasar de todas formas"*. Distinguir de `voz_experiencial_propia`: la inevitabilidad puede expresarse desde la experiencia propia, pero el código captura la **estructura del argumento** (algo dado, no decidido), no su tono. Anotar si la docente acepta, resiste o naturaliza esa inevitabilidad. Ref. teórica: Jasanoff & Kim (2015) — imaginarios como visiones de futuros estabilizados institucionalmente; Saura et al. (2024) — imaginarios globales que presentan la IA como solución neutral y necesaria.
 - **`imaginario_desigualdad_estructural`** — *"Las escuelas que ya tienen todo van a poder usarla, las que no tienen nada van a quedar más atrás" / "Esto va a ser para los que pueden pagarlo"*. Distinguir del código inductivo `preocupacion_recursos_materiales_infraestructura` (de P2): ese código captura la preocupación concreta por falta de equipamiento en el propio contexto; este captura una visión **estructural y comparativa** sobre distribución desigual entre contextos. Pueden coexistir en el mismo segmento — no forzar la elección de uno solo. Ref. teórica: Saura et al. (2024) — imaginarios mercantilistas; Castañeda, Postigo-Fuentes & Arroyo-Sagasta (2025, REEC 48, extra) — **verificada**, dimensión comercial y política de su marco de 7 dimensiones.
@@ -102,30 +167,6 @@
 
 ---
 
-## Núcleo 5 — Concepciones sobre diseño didáctico y uso pedagógico de la IAG (agregado 2026-07-31)
-
-**Por qué es un núcleo separado y no una extensión del Núcleo 2:** Ausubel (Núcleo 2) refiere al aprendizaje del *estudiante* — si la IAG ayuda o no a integrar conocimiento nuevo con saberes previos. Este núcleo refiere a las *decisiones del/de la docente* sobre planificación y diseño de propuestas — un objeto distinto. Mantenerlos separados es más limpio analíticamente y más fiel al marco: conecta directamente con el cuarto eje real del guion de entrevista ("usos proyectados en el diseño de propuestas didácticas") y con la teoría de diseño didáctico ya presente en el marco teórico (Palamidessi & Gvirtz, 1998), que hasta ahora no tenía códigos deductivos propios.
-
-| Código | Definición | Incluir cuando... | Ejemplo de frase tipo |
-|---|---|---|---|
-| `criterio_sentido_pedagogico` | La docente establece que el uso de IAG en una propuesta debe tener un propósito pedagógico claro, no incorporarse por la tecnología en sí misma | Menciona que usa o usaría la IA solo si "suma", si tiene un "para qué", si está al servicio del contenido/aprendizaje y no al revés | "No la uso porque sí, tiene que tener un sentido" / "Primero pienso qué quiero que aprendan y después veo si la IA puede ayudar" |
-| `criterio_contextual_grupo` | La docente toma decisiones sobre el uso de IAG en función de las características concretas de su grupo de alumnos: edad, nivel, necesidades particulares, contexto socioeconómico | Menciona al grupo real como variable que determina si usa o no la IAG, qué actividad diseña, o cómo adapta lo que la IA produce | "Con este grupo no lo usaría porque todavía no leen" / "Para los que tienen dificultades sí, les adapto el texto" |
-| `uso_iai_apoyo_administrativo` | La docente describe usos de IAG para tareas que no son estrictamente de diseño didáctico: boletines, informes, comunicaciones, planificaciones formales, búsqueda de recursos | Habla de usar la IA para producir documentos institucionales, ahorrar tiempo en tareas de gestión, o generar materiales de uso propio sin intervención directa de los alumnos | "La uso para hacer los comentarios del boletín" / "Me ayuda a armar la planificación más rápido" |
-| `tension_autoria_impronta` | La docente expresa tensión entre usar la IAG para diseñar propuestas y mantener su propia voz, criterio o singularidad como docente | Menciona que no quiere que la IA "reemplace" su forma de hacer las cosas, que le importa que las propuestas "tengan su impronta", o que siente que usar la IA es ceder algo propio | "Me gusta que mis planificaciones sean mías" / "Le doy una idea y ella lo arma, pero después lo tengo que hacer mío" |
-| `criterio_etario_ciclo` (inductivo, agregado 2026-08-07) | La docente toma decisiones sobre el uso de IAG en función del ciclo/edad de sus estudiantes (primer ciclo, 1°-3°, vs. segundo ciclo, 4°-7°) — incluye tanto instancias donde el ciclo limita o excluye el uso, como instancias donde se rechaza explícitamente el ciclo como criterio de exclusión y se opta por adaptar la actividad en vez de descartarla | Menciona explícitamente el ciclo o la edad como razón para usar, no usar, o adaptar el uso de IAG | "Con los más chicos no lo trabajé porque trabajo en primer ciclo" (exclusión) / "Se puede sumar tranquilamente... independientemente del grado" (contra-instancia) |
-| `criterio_heterogeneidad_competencias_grupo` (inductivo, agregado 2026-08-07) | La docente considera la heterogeneidad de competencias digitales entre estudiantes dentro de un mismo grupo/grado (no por ciclo) al planificar el uso de IAG | Habla de diferencias de manejo técnico entre compañeros del mismo grado como variable de planificación, distinto de una diferencia por edad/ciclo | "Hay alumnos que pueden arrastrar muy bien bloques... y hay otros que no, entonces lograr que todos vayan a la par lleva tiempo" |
-
-**Nota de relectura del corpus completo (2026-08-07) — corrige una lectura previa demasiado apresurada:** una primera observación (basada solo en P1 y P15, las dos únicas docentes de "área especial" que dan clase en ambos ciclos) sugería un patrón limpio y uniforme de exclusión de primer ciclo. **La relectura formal del corpus completo lo complica de forma productiva, no lo confirma sin más:** de 7 participantes con un criterio etario/de ciclo explícito, 4 tienden a la exclusión o limitación (P1, P6, P9, P15) pero **3 rechazan explícitamente esa lógica** (P3, P4, P12) — P4 en particular lo verbaliza como principio general ("independientemente del grado"), y P12 muestra un patrón de adaptación diferenciada por ciclo (actividad "desenchufada" primero en primer grado, uso más directo en grados mayores), no de exclusión. El corpus tiene una tensión real entre ambas posturas, no un consenso — detalle completo en `relectura_ciclo_heterogeneidad.md`.
-
-**Notas de uso y referencias teóricas:**
-
-- **`criterio_sentido_pedagogico`** — código con mayor frecuencia esperada según el procesamiento exploratorio hasta ahora. Prestar atención a si el criterio pedagógico es autónomo o es a su vez un eco del discurso institucional (puede coexistir con `eco_discurso_institucional`, especialmente con el marcador "pertinencia pedagógica" del Marco de gobernanza CABA). Ref. teórica: Palamidessi & Gvirtz (1998) — el diseño como prefiguración contextualizada; Cabello (2006) — las representaciones como condicionantes de los usos efectivos.
-- **`criterio_contextual_grupo`** — distinguir de `adaptacion_saberes_previos` (Núcleo 2): ese código refiere a la capacidad de la IA de adaptarse al alumno individual; este captura la **decisión docente** sobre el grupo, no la capacidad de la herramienta. Ref. teórica: Palamidessi & Gvirtz (1998) — diseño situado; Ausubel (1963) — saberes previos como punto de partida (aplicado acá a la decisión docente, no al aprendizaje del alumno).
-- **`uso_iai_apoyo_administrativo`** — distinto de `criterio_sentido_pedagogico` porque no implica necesariamente reflexión sobre el aprendizaje. Puede coexistir con `eco_discurso_institucional` cuando el marcador es "reducir la carga administrativa" (ver Marcadores imaginario, Marco gobernanza CABA). Registrar si la docente distingue o no entre estos usos y los usos pedagógicos con alumnos. Ref. teórica: Castañeda, Postigo-Fuentes & Arroyo-Sagasta (2025, REEC 48, extra) — **verificada**, dimensión instrumental; Cabello (2006).
-- **`tension_autoria_impronta`** — código de alta carga identitaria. Prestar atención a si la tensión se resuelve a favor de la IA, a favor de la docente, o queda sin resolución. Puede coexistir con `competencia_critica_reflexiva` (Núcleo 3). Ref. teórica: Moscovici (1986) — la representación como construcción identitaria; Castañeda, Postigo-Fuentes & Arroyo-Sagasta (2025, REEC 48, extra) — **verificada**, dimensión epistemológica e ideológica.
-
----
-
 ## Etiquetas transversales (obligatorias en cada segmento codificado)
 
 - **`bloque_protocolo`**: número de bloque del protocolo de entrevista de donde viene el segmento (1 a 7) — necesario porque la entrevista es semiestructurada y no todos los bloques se administraron a todas las docentes. Sin este dato no se puede interpretar bien la frecuencia de ningún código.
@@ -135,28 +176,13 @@
 
 ## Ancla privilegiada — Bloque 3, Pregunta 1
 
-Cuando la entrevista incluya la pregunta "¿Qué sabés sobre la IAG? Si tuvieras que explicarle a alguien qué es, ¿cómo se lo explicarías?", tratá la primera metáfora/imagen espontánea que use la docente como dato de mayor peso para `objetivacion_imagen_concreta` — es el momento más parecido a una evocación libre que tiene este protocolo. Llevá una tabla aparte:
-
-| Participante | ¿Se administró Bloque 3, P1? | Primera metáfora/imagen espontánea |
-|---|---|---|
-| P1 | | |
-| P2 | | |
-| ... | | |
+Cuando la entrevista incluya la pregunta "¿Qué sabés sobre la IAG? Si tuvieras que explicarle a alguien qué es, ¿cómo se lo explicarías?", tratá la primera metáfora/imagen espontánea que use la docente como dato de mayor peso para `objetivacion_imagen_concreta` (Dimensión 2) — es el momento más parecido a una evocación libre que tiene este protocolo. Tabla completa por participante en `paper/supplementary/anexo_d_descripcion_densa_participantes.md` y en la hoja "Ancla objetivación" del Excel.
 
 ---
 
 ## Planilla de seguimiento de saturación
 
-Completar después de codificar cada entrevista (en el orden en que las vayas codificando, no necesariamente el orden en que las hiciste):
-
-| # entrevista codificada | Participante | Códigos nuevos que aparecieron | Total códigos nuevos |
-|---|---|---|---|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| ... | | | |
-
-Cuando las últimas 2-3 entrevistas codificadas no agreguen propiedades/relaciones nuevas a ninguna categoría axial (no solo códigos sueltos), hay saturación teórica — anotalo explícitamente cuando llegues a ese punto.
+Ver hoja "Saturación" del Excel y la síntesis final en `codificacion_P1_P14_cierre_corpus.md` §5 y `paper/sections/capitulo3_diseno_metodologico.md` §3.7 — saturación teórica propuesta como alcanzada con el corpus completo (15/15), pendiente de confirmación final de la investigadora.
 
 ---
 
@@ -168,4 +194,4 @@ Antes de codificar cada entrevista, escribí un memo breve que incluya: (a) tu v
 
 ## Notas de uso — no forzar
 
-Si al codificar las primeras 3-4 entrevistas ves que algún núcleo no aparece o aparece muy poco desarrollado, **no lo fuerces ni lo rellenes** — anotalo como "núcleo subdesarrollado en el corpus" y seguí. Puede ser un hallazgo real (ese eje no resuena en el discurso docente) o una señal de que hay que ajustar el codebook. Las dos cosas son información válida, no un error tuyo.
+Si al codificar ves que alguna dimensión no aparece o aparece muy poco desarrollada, **no la fuerces ni la rellenes** — anotalo como "dimensión subdesarrollada en el corpus" y seguí. Puede ser un hallazgo real (ese eje no resuena en el discurso docente) o una señal de que hay que ajustar el codebook. Las dos cosas son información válida, no un error tuyo.
