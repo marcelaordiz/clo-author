@@ -159,6 +159,25 @@
 
 **Diálogo con §4.1:** las dos participantes que responden la ancla privilegiada con definición técnica en vez de metáfora (P13, P14) son también las de mayor especialización formal (Lic. en Enseñanza con Tecnologías Digitales, ambas) — sugiere una relación entre formación específica y **registro** de la representación (técnico vs. metafórico), distinta de la relación entre competencia y **valoración** (favorable/desfavorable) que es el objeto de `relacion_no_lineal_competencia_representacion`. Vale la pena nombrar esta distinción explícitamente en el Cap. 4 — son dos preguntas relacionadas pero no idénticas.
 
+### 4.6.1 — Cerrando la parte relacional de OE1 (agregado 2026-08-09, a pedido de la investigadora)
+
+El OE1 no pide solo describir la competencia digital autopercibida — pide **relacionarla con el uso de herramientas tecnológicas para el diseño de propuestas didácticas** (Dimensión 5). Hasta ahora ambas dimensiones se habían codificado en paralelo, sin cruzarlas explícitamente caso por caso. Este cruce lo cierra, a partir de lo ya codificado (no requirió releer el corpus):
+
+| Participante | Competencia digital declarada | Riqueza de uso en Dimensión 5 | Patrón |
+|---|---|---|---|
+| P3, P4 | Alta (facilitadoras digitales) | Alta — 3 códigos c/u, ejemplos concretos ricos (NotebookLM, evaluaciones adaptadas) | Consistente |
+| P8 | Alta (Lic. Tecnologías Digitales) | Alta — adaptación individual + apoyo administrativo, ejemplos concretos | Consistente |
+| P12, P13, P14 | Alta (especialización formal específica) | Muy alta — P14 en particular, las formulaciones más programáticas del corpus | Consistente |
+| P15 | Alta (licenciatura propia en curso) | Alta — ejemplo más elaborado del corpus (doble estructura, teatro de sombras) | Consistente |
+| P1, P5, P7, P9, P10 | Media | Media — 1-2 códigos de Dimensión 5 c/u, ejemplos más acotados | Consistente |
+| P6 | Baja/media ("más analógica") | Baja — solo 1 código (criterio_etario_ciclo, exclusión), sin criterio_sentido_pedagogico ni uso_iai_apoyo_administrativo | Consistente |
+| **P2** | **Media-alta declarada en general** ("me encanta explorar, me encanta aprender") | **Prácticamente nula específicamente para IAG** — no aparece en ninguna de las listas de códigos de Dimensión 5 | **DEVIANTE — el mismo caso que `relacion_no_lineal_competencia_representacion`** |
+| P11 | Sin datos suficientes | Sin datos suficientes | No clasificable |
+
+**Lectura:** con el corpus completo, la relación competencia digital ↔ riqueza de uso en el diseño de propuestas didácticas es **mayormente monótona/positiva** (8 de 10 participantes con datos suficientes siguen el patrón esperado) — un resultado que, interesantemente, **converge con el hallazgo cuantitativo de Galindo-Domínguez et al. (2024)** sobre una relación lineal entre competencia digital y actitud hacia la IA en una muestra de 445 docentes. La diferencia es que el diseño cualitativo permite ver **por qué** falla en el único caso que la rompe: P2 tiene alta competencia digital *general* (explorar, aprender tecnología en abstracto) pero baja competencia/exploración *específica* de la IAG — la relación no lineal no es sobre competencia digital en general, es sobre el desfasaje entre competencia general y exploración puntual de esta tecnología en particular. Vale la pena que el Cap. 4/Discusión haga esta distinción explícita: "competencia digital" no es un único continuo, y el caso de P2 lo demuestra mejor que cualquier argumento abstracto.
+
+**Cierra la parte relacional del OE1** — ya no queda como una descripción paralela de dos dimensiones, sino como una relación explícitamente trazada, con su caso negativo nombrado y explicado, no solo detectado.
+
 ---
 
 ## Pendiente antes de redactar el Capítulo 4

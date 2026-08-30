@@ -40,6 +40,8 @@
 
 **Regla explícita:** no asumir causalidad directa "a mayor competencia técnica, representación más favorable" — codificar tal como aparece, incluidos los casos que contradicen esa relación (son especialmente valiosos).
 
+**Nota conceptual (2026-08-09):** el OE1 pide "competencias digitales" (noción instrumental), pero el fundamento teórico elegido es alfabetización digital docente (Lankshear & Knobel) — más amplio, incluye una dimensión crítica que la sola noción de competencia no captura. `competencia_tecnica_declarada` cubre la dimensión operacional (más cercana a "competencia" en sentido estricto); `competencia_critica_reflexiva` cubre la dimensión crítica (el aporte propio de Lankshear & Knobel). Justificación completa en `paper/sections/capitulo3_diseno_metodologico.md` §3.2.2.
+
 ---
 
 ## Dimensión 2 — Conocimientos previos sobre IA generativa (Objetivo específico 2)
