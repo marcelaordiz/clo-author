@@ -29,7 +29,7 @@
 ## Dimensión 1 — Competencias digitales (Objetivo específico 1)
 
 **Objetivo específico que la origina:** *"Identificar las competencias digitales de los docentes de escuelas primarias de CABA en relación con el uso de herramientas tecnológicas para el diseño de propuestas didácticas orientadas al aprendizaje significativo."*
-**Fundamento teórico secundario:** alfabetización digital docente — Lankshear & Knobel (2008); Dussel (2009).
+**Fundamento teórico secundario:** alfabetización digital docente — Lankshear & Knobel (2008); Dussel (2012). Complementado con marcos específicos de competencia digital docente (más operacionalizables que Lankshear & Knobel, que es un marco general): DigCompEdu (Redecker, 2017, 6 áreas) y su adaptación regional (OEI, 2023). Ver `paper/sections/capitulo3_diseno_metodologico.md` §3.2.2.
 **Bloque del protocolo más relevante:** Bloque 2 (competencias digitales/TIC); Bloque 1 (perfil).
 
 | Código | Definición | Incluir cuando... | Ejemplo de frase tipo |
