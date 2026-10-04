@@ -1,6 +1,8 @@
-# Capítulo 1 — Antecedentes (fragmento en redacción)
+# Capítulo 2 — Antecedentes (fragmento en redacción)
 
-**Estado:** borrador parcial. Este archivo contiene únicamente el apartado sobre Cabello (2006) y la diferencia de linaje teórico con Aprea/Verón, redactado a pedido de la investigadora el 2026-10-04. El resto del Capítulo 1 (apertura con la paradoja estructurante, los tres grupos del Ateneo, geografía y nivel educativo, continuidad con el trabajo propio, cierre de la intersección vacía) sigue la estructura de `quality_reports/plans/2026-07-29_estructura-marco-teorico-antecedentes.md` y todavía no está escrito. Este fragmento va en la sección "Antecedentes directos", antes de Arigón (2024) y Moreno (2025).
+**Estado:** borrador parcial. Este archivo contiene únicamente el apartado sobre Cabello (2006) y la diferencia de linaje teórico con Aprea/Verón, redactado a pedido de la investigadora el 2026-10-04. El resto del Capítulo 2 (apertura con la paradoja estructurante, los tres grupos del Ateneo, geografía y nivel educativo, continuidad con el trabajo propio, cierre de la intersección vacía) sigue la estructura de `quality_reports/plans/2026-07-29_estructura-marco-teorico-antecedentes.md` y todavía no está escrito. Este fragmento va en la sección "Antecedentes directos", antes de Arigón (2024) y Moreno (2025).
+
+**Corrección 2026-10-04:** este archivo se creó originalmente como `capitulo1_antecedentes.md` -- error de numeración, ya que el cronograma de tesis fija Capítulo 1 = Marco Teórico y Capítulo 2 = Antecedentes. Renombrado sin cambiar el contenido.
 
 ---
 
