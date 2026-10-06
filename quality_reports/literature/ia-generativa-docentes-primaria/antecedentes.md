@@ -12,6 +12,12 @@ Documento consolidado que unifica la revisión original (`lit_review_ia-generati
 
 ---
 
+## 0.5. Antecedente metodológico (no temático) de la línea "pensamiento del profesor"
+
+- **Machicado, S. G. (2022).** *Enseñanza vulnerada.* Tesis de Maestría en Ciencias Sociales con Orientación en Educación, FLACSO Argentina (dir. Silvina Feeney). Estudio de caso con 8 docentes de secundaria en escuelas con estudiantes en contextos de vulnerabilidad, concepciones sobre la enseñanza desde el paradigma del pensamiento del profesor. **No es antecedente temático** (nivel secundario, no trata IA ni tecnología) — es el antecedente que te sugirió el comité en el Ateneo y de donde se extrajeron las referencias de Feldman, Cols y Montenegro et al. para la sublínea teórica nueva. Diseño metodológico cercano al tuyo (estudio de caso + entrevistas en profundidad).
+
+---
+
 ## 1. Antecedentes directos (mismo objeto casi exacto: representaciones/percepciones docentes + IA generativa)
 
 - **Cabello, coord. (2006)** — *"Yo con la computadora no tengo nada que ver"* (UNGS). Antecedente más cercano por población (docentes de **primaria**, conurbano bonaerense) aunque el objeto representado es TIC en general, no IA generativa. El argumento de que las representaciones condicionan los usos se desarrolla en el capítulo de **Aprea (2006)**, fundado teóricamente en Verón (1987, semiosis social) y no en Moscovici/Jodelet — ver `capitulo2_antecedentes.md` para la diferencia de linaje teórico con esta tesis, confirmada por la investigadora el 2026-10-04.
