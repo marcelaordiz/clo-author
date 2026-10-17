@@ -278,3 +278,10 @@
 **Score:** N/A
 **Verdict:** La investigadora, al decidir pasar de la línea de representaciones sociales a otras categorías, reveló que pensaba que pensamiento del profesor (Feldman/Cols/Montenegro) le iba a servir para Dimensión 5 (diseño didáctico) -- cuando hasta ahora entró al proyecto solo por la discusión representaciones/concepciones de Dimensión 2 (vía Machicado). Se evaluó la intuición y tiene fundamento real, no es un error: la fase PREACTIVA del paradigma del pensamiento del profesor (Jackson) es específicamente sobre planificación/decisiones de diseño, lo cual podría dialogar con el anclaje ya fijado de Dimensión 5 (Palamidessi & Gvirtz, 1998), no solo con la Dimensión 2. Se agregó una nota a la ficha de lectura para que, al leer Feldman y Cols, la investigadora registre ambas preguntas (representaciones/concepciones para Dim.2, Y fase preactiva/diseño para Dim.5) en vez de solo la primera -- decisión de si el texto efectivamente aporta a ambas dimensiones queda pendiente de la lectura real, no resuelta hoy.
 **Report:** `fichas_lectura_pensamiento_profesor.xlsx` (nota en hoja Instrucciones)
+
+### 2026-10-17 — Revisión de la nota anterior: la investigadora prefiere no mezclar Dimensión 2 y 5 en la misma ficha
+**Phase:** Strategy (ajuste organizativo, no agente de pipeline)
+**Target:** fichas_lectura_pensamiento_profesor.xlsx
+**Score:** N/A
+**Verdict:** La investigadora aclaró que mantiene fichas separadas por propósito y prefiere no combinar las dos preguntas (representaciones/concepciones para Dim.2, fase preactiva/diseño para Dim.5) en la misma ficha de pensamiento del profesor, como se había sugerido en la entrada anterior. Revisada la nota de la hoja Instrucciones para indicar que esta ficha sigue siendo solo para Dimensión 2, y que cualquier observación relevante para Dimensión 5 debe anotarse aparte. Pendiente: no está claro si la investigadora ya tiene su propio sistema de registro para Dimensión 5 o si convendría crear `fichas_lectura_dimension5.xlsx` (diseño didáctico, Palamidessi & Gvirtz) desde este proyecto -- a confirmar con ella.
+**Report:** `fichas_lectura_pensamiento_profesor.xlsx` (nota revisada)
