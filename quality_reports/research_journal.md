@@ -285,3 +285,10 @@
 **Score:** N/A
 **Verdict:** La investigadora aclaró que mantiene fichas separadas por propósito y prefiere no combinar las dos preguntas (representaciones/concepciones para Dim.2, fase preactiva/diseño para Dim.5) en la misma ficha de pensamiento del profesor, como se había sugerido en la entrada anterior. Revisada la nota de la hoja Instrucciones para indicar que esta ficha sigue siendo solo para Dimensión 2, y que cualquier observación relevante para Dimensión 5 debe anotarse aparte. Pendiente: no está claro si la investigadora ya tiene su propio sistema de registro para Dimensión 5 o si convendría crear `fichas_lectura_dimension5.xlsx` (diseño didáctico, Palamidessi & Gvirtz) desde este proyecto -- a confirmar con ella.
 **Report:** `fichas_lectura_pensamiento_profesor.xlsx` (nota revisada)
+
+### 2026-10-17 — Corrección: malentendido sobre "ficha aparte", revertida la revisión anterior
+**Phase:** Strategy (corrección de malentendido propio, no agente de pipeline)
+**Target:** fichas_lectura_pensamiento_profesor.xlsx
+**Score:** N/A
+**Verdict:** La entrada anterior interpretó mal lo que decía la investigadora -- ella se refería a que `fichas_lectura_pensamiento_profesor.xlsx` YA ES la "ficha aparte" (separada de la de representaciones sociales), no a que quisiera separar las observaciones de Dimensión 2 y Dimensión 5 dentro de esa misma ficha. No hacía falta ningún cambio. Revertida la nota a su versión original (ambas preguntas, Dim.2 y Dim.5, se registran juntas en esta ficha), aclarando explícitamente que ya está separada de la de representaciones sociales y que no se necesita un archivo nuevo por dimensión. Corrección reconocida explícitamente a la investigadora, no corregida en silencio.
+**Report:** `fichas_lectura_pensamiento_profesor.xlsx` (nota restaurada y aclarada)
