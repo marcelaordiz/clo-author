@@ -97,7 +97,25 @@ Por último, el interés por las representaciones docentes se vincula con su inc
 
 # 2. Capítulo 2 — Antecedentes
 
-## 2.1 Fragmento redactado: Cabello (2006) y la diferencia de linaje teórico con Aprea (2006)
+**Nota sobre esta versión del capítulo:** los apartados 2.1 a 2.3 se incorporaron recién, tomados directamente del apartado de fundamentación del plan de tesis aprobado. Las fuentes que ahí se citan ya fueron leídas por la investigadora; sus referencias bibliográficas completas (título, revista, año exacto) todavía están pendientes de una revisión final antes de cerrar el capítulo. El apartado 2.4 (Cabello y Aprea) sí está ya verificado de manera independiente, cita por cita.
+
+## 2.1 Apertura: la paradoja estructurante
+
+La inteligencia artificial ha experimentado un desarrollo exponencial en las últimas décadas, y su potencial en el campo educativo, según expertos y comunicadores, promete transformar no solo los procesos de construcción del conocimiento sino también la forma en que los propios docentes diseñan sus propuestas. Esa promesa, sin embargo, convive con una producción científica empírica todavía limitada y desigual. La revisión sistemática de Zhai et al. (2021) sobre investigaciones en IA educativa entre 2010 y 2020 muestra que la mayoría de los estudios se concentraron en el aprendizaje mediado por IA o en la enseñanza sobre IA, descuidando su potencial como herramienta de apoyo para el diseño pedagógico propiamente dicho. Mollick y Mollick (2023) profundizan este diagnóstico al sugerir que la IA puede ser un aliado fundamental para que los docentes desarrollen propuestas innovadoras, un uso que la literatura revisada por Zhai et al. todavía no había explorado en profundidad.
+
+Esta desproporción entre el discurso tecnológico omnipresente sobre el potencial transformador de la IA generativa y la producción académica efectivamente dedicada a estudiarlo es la paradoja que estructura y justifica esta investigación. A esa escasez se suma un problema de calidad, no solo de cantidad: Zafari et al. (2022) concluyen que buena parte de esas investigaciones no ha logrado aportar de manera sustantiva a la mejora de la enseñanza, por falta de fundamentación en teorías pedagógicas específicas; Bartolomé et al. (2019) señalan que muchos desarrollos tecnológico-educativos se centran más en los artefactos y algoritmos que en los modelos pedagógicos que deberían sostenerlos.
+
+## 2.2 El sesgo hacia niveles medio y superior, y hacia el estudiante antes que el docente
+
+La escasa investigación disponible, además, no se distribuye de manera pareja. Los estudios sobre IA en educación se han concentrado predominantemente en el fraude académico y el plagio, bajo el supuesto de que los estudiantes son los principales beneficiarios -- o el principal riesgo -- del uso de estas herramientas, sobre todo en tareas propias del nivel secundario y superior (Arce, 2023; Anders, 2023; Khalil, 2023). Las investigaciones sobre el uso específico de la IA generativa en el nivel primario son escasas y provienen mayormente de contextos asiáticos o anglosajones. La revisión de Martínez-Comesaña et al. (2023), sobre nueve estudios con 641 participantes, documenta contribuciones de la IA a la evaluación del rendimiento en primaria y secundaria, pero no se refiere a la IA generativa específicamente.
+
+Un antecedente relevante sobre percepciones docentes es el estudio de Chounta et al. (2022) en Estonia: 140 docentes de K-12 mostraron conocimiento limitado sobre IA pero actitud positiva hacia su potencial, con desafíos en torno a la eficiencia, la relación con los alumnos y la planificación curricular -- un buen término de comparación, aunque Estonia cuente con infraestructura digital más desarrollada que la Ciudad de Buenos Aires.
+
+## 2.3 Geografía y nivel educativo: el vacío específico
+
+La IA generativa, desarrollada tras décadas de investigación y liderada por OpenAI, pasó de los laboratorios a la aplicación práctica de manera acelerada (Zapata Ros, 2023). En el ámbito educativo latinoamericano, recién comienzan a emerger investigaciones, concentradas sobre todo en educación superior (Tramallino et al., 2024; Ferrarelli y Corvalán, 2024) y, más recientemente, en nivel secundario (Caldeiro et al., 2024 -- trabajo previo de la propia investigadora). La educación primaria permanece como un terreno prácticamente inexplorado, vacío que se profundiza en la Ciudad Autónoma de Buenos Aires. Una revisión sistemática de la literatura sobre IA en educación K-12 entre 2011 y 2021 (Zafari et al., 2022) confirma el mismo patrón: las aplicaciones de nivel secundario fueron, sistemáticamente, las más frecuentes.
+
+## 2.4 Cabello (2006) y la diferencia de linaje teórico con Aprea (2006)
 
 El antecedente empírico más cercano a esta tesis es el estudio dirigido por Cabello (2006), *"Yo con la computadora no tengo nada que ver"*, realizado entre 2001 y 2003 con docentes de nivel primario del conurbano bonaerense (San Miguel, Malvinas Argentinas y José C. Paz). La población coincide casi punto por punto con la de este trabajo: maestros en ejercicio, representaciones sobre una tecnología informática, área metropolitana de Buenos Aires. El objeto representado es distinto (las TIC en general, no la IA generativa) y el estudio combina encuesta y entrevistas en profundidad, mientras esta tesis trabaja solo con entrevistas. El argumento de fondo, sin embargo, es el mismo que sostiene el problema de esta investigación.
 
@@ -107,7 +125,7 @@ Esta tesis retoma el mismo argumento sustantivo, que las representaciones condic
 
 Además del argumento teórico, el capítulo de Aprea aporta hallazgos sustantivos de interés directo: los maestros de su estudio ubicaban a las TIC como exteriores a la institución escolar, percibían el cambio que habilitan como cuantitativo más que cualitativo, y rechazaban por unanimidad la hipótesis de sustitución del docente por el dispositivo tecnológico, reservándose el rol de "guía" u "orientador". Este último hallazgo es prácticamente literal al código `imaginario_rol_docente_futuro` que ya emerge en el corpus propio de esta tesis (ver Capítulo 4, apartado 4.5) — veinte años y dos tecnologías distintas sosteniendo el mismo gesto de resistencia discursiva, un dato con fuerte potencial para la Discusión.
 
-## 2.2 Panorama general de antecedentes relevados (pendiente de convertir en prosa de capítulo)
+## 2.5 Panorama general de antecedentes relevados (pendiente de convertir en prosa de capítulo)
 
 Se relevaron alrededor de 50 referencias, organizadas por cercanía al objeto de esta tesis:
 
