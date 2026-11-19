@@ -55,8 +55,8 @@ Documento consolidado que unifica la revisión original (`lit_review_ia-generati
 - **Dussel & Williams (2023, Profesorado)** — imaginarios sociotécnicos en política educativa digital, México — precedente metodológico más cercano para analizar imaginarios en política educativa latinoamericana (documentos, no entrevistas docentes).
 - **Fuertes-Alpiste (2025, REEC)** — imaginario de IA generativa para "colaboración cognitiva" vs. "sustituta del docente", análisis documental UE/UNESCO/OCDE.
 - **Estormovski (2025, REEC)** — imaginarios sociotécnicos y futuro de la enseñanza. *Nivel/objeto sin confirmar — acceso bloqueado.*
-- **[NO VERIFICADO] Artículo chileno (REEC 48, 2025)** — imaginarios + "alienación digital docente". *Antecedente latinoamericano más cercano a tratar el imaginario como vivido en la experiencia laboral docente — verificar autoría/alcance.*
-- **[NO VERIFICADO] "Sociotechnical Imaginaries... Digital Citizenship Education" (Postdigital Science and Education, 2025)** — combina imaginarios + percepciones docentes, pero objeto declarado es ciudadanía digital, no IAG. **Mayor riesgo de scooping detectado — verificar antes de escribir.**
+- **[CANDIDATO FUERTE, no confirmado por la investigadora] Mateluna-Estay, H. (2025).** "Imaginarios sociotécnicos de la transformación digital en educación y sus efectos en el trabajo docente." *Revista Española de Educación Comparada*, 48 (extra), 115-133. DOI: 10.5944/reec.48.2025.45371. Identificado por búsqueda el 2026-11-19 (usa "enajenación", no "alienación" — por eso no apareció en búsquedas previas). Pendiente que la investigadora abra el link y confirme que es el artículo correcto.
+- **Webster, J. (2025).** "Imaginarios sociotécnicos en un mundo posdigital: Percepciones de los docentes sobre la educación para la ciudadanía digital." *Postdigital Science and Education*, 7, 770-787. DOI: 10.1007/s42438-025-00557-w. **Confirmado por la investigadora el 2026-11-19** (acceso directo, bloqueado desde este entorno) — combina imaginarios sociotécnicos + percepciones docentes, pero el objeto declarado es ciudadanía digital, no IA generativa. Ya no es un riesgo de scooping sin resolver.
 - **Sun, Unlu & Johri (2025, arXiv)** — imaginarios de ChatGPT en educación superior vía discurso mediático, EE.UU.
 - **Mateus, Leon & Paucar (2025, Signo y Pensamiento)** — imaginarios de IA en adolescentes/jóvenes de LatAm — puente entre núcleo 4 (imaginarios) y núcleo 3 (alfabetización).
 - **Fernández Massara (ca. 2012-2015, UNICEN)** — imaginarios tecnológicos + representaciones en TIC pre-genAI, secundaria técnica, Argentina (Conectar Igualdad). *Antecedente argentino directo de la doble lente representaciones+imaginario, aunque pre-IA generativa.*
@@ -114,8 +114,7 @@ Documento consolidado que unifica la revisión original (`lit_review_ia-generati
 | Ítem | Estado | Acción recomendada |
 |------|--------|---------------------|
 | Moreno, S. (2025, CFE Uruguay) | Nombre completo de la autora sin confirmar (solo apellido + inicial); es trabajo final de materia, no tesis | Conseguir texto completo para confirmar marco analítico exacto — sigue siendo el antecedente más cercano por nivel educativo, aunque de menor peso académico de lo que se asumía |
-| Postdigital Science and Education (2025) | Acceso bloqueado (403) | Verificar antes de escribir — mayor riesgo de scooping |
-| Artículo chileno REEC 48 (2025) | Autoría no verificada | Confirmar si es IA generativa específica o TIC en general |
+| Mateluna-Estay, H. (2025, REEC 48) | Candidato fuerte identificado el 2026-11-19, no confirmado por la investigadora | Abrir el link y confirmar que es el artículo correcto antes de citarlo con esa autoría |
 | Caldeiro, Odetti y Ordiz (2024) | Paginación no reconciliada | Confirmar tu propia paginación exacta en las actas |
 | Kaplan-Rakowski et al. cita original | No localizada | Confirmar si tenías en mente la versión sustituta (Grotewold/Papin) u otra |
 | Educ.ar — cifra "24% con formación" | No confirmada textualmente | Acceder al informe completo y confirmar cifra exacta |
