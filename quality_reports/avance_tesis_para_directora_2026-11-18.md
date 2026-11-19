@@ -14,7 +14,7 @@ No todo está en el mismo estado. Para que se entienda de un vistazo:
 
 - **Capítulo 3 (Diseño Metodológico)** está completo en un primer borrador en prosa.
 - **Capítulo 1 (Marco Teórico)**, apartado 1.1, está redactado en prosa final. Los apartados 1.2 a 1.6 todavía no están escritos como texto corrido — van como notas de avance (qué argumento van a desarrollar, qué fuentes ya están confirmadas y listas para citar, y qué lecturas faltan).
-- **Capítulo 2 (Antecedentes)** tiene un fragmento redactado (el antecedente más cercano, con la discusión teórica que se deriva de él) y, además, el panorama completo de antecedentes relevados hasta ahora, todavía sin convertir en prosa de capítulo.
+- **Capítulo 2 (Antecedentes)** tiene cuatro apartados redactados (2.1 a 2.3 tomados del plan de tesis aprobado, con sus referencias pendientes de una revisión final; 2.4 ya verificado de forma independiente) y, además, el panorama completo de antecedentes relevados hasta ahora, todavía sin convertir en prosa de capítulo (2.5).
 - **Capítulo 4 (Análisis y Resultados)** no está redactado todavía, pero el trabajo empírico de base sí está completo: el corpus de 15 entrevistas está codificado en su totalidad, y hay un avance organizado por subsección con los hallazgos, las citas candidatas y los casos que no siguen el patrón general.
 - Se incluye también un resumen de la muestra y el estado general del cronograma.
 
@@ -22,12 +22,46 @@ No todo está en el mismo estado. Para que se entienda de un vistazo:
 
 ## Índice
 
-1. Capítulo 1 — Marco Teórico
-2. Capítulo 2 — Antecedentes
-3. Capítulo 3 — Diseño Metodológico
-4. Capítulo 4 — Análisis y Resultados (avance empírico)
-5. Anexo — Descripción de la muestra
-6. Estado general y próximos pasos
+**1. Capítulo 1 — Marco Teórico**
+&nbsp;&nbsp;&nbsp;1.1. Representaciones sociales
+&nbsp;&nbsp;&nbsp;1.2. Imaginarios sociotécnicos (estado de avance)
+&nbsp;&nbsp;&nbsp;1.3. IA generativa: definición técnica (estado de avance)
+&nbsp;&nbsp;&nbsp;1.4. Aprendizaje significativo (estado de avance)
+&nbsp;&nbsp;&nbsp;1.5. Alfabetización digital docente (estado de avance)
+&nbsp;&nbsp;&nbsp;1.6. Diseño de propuestas didácticas (estado de avance)
+
+**2. Capítulo 2 — Antecedentes**
+&nbsp;&nbsp;&nbsp;2.1. Apertura: la paradoja estructurante
+&nbsp;&nbsp;&nbsp;2.2. El sesgo hacia niveles medio y superior, y hacia el estudiante antes que el docente
+&nbsp;&nbsp;&nbsp;2.3. Geografía y nivel educativo: el vacío específico
+&nbsp;&nbsp;&nbsp;2.4. Cabello (2006) y la diferencia de linaje teórico con Aprea (2006)
+&nbsp;&nbsp;&nbsp;2.5. Panorama general de antecedentes relevados (pendiente de convertir en prosa de capítulo)
+
+**3. Capítulo 3 — Diseño Metodológico**
+&nbsp;&nbsp;&nbsp;3.1. Paradigma y enfoque
+&nbsp;&nbsp;&nbsp;3.2. Diseño analítico: Teoría Fundamentada
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.2.1. La incorporación de la quinta dimensión como caso de sensibilidad teórica en acto
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.2.2. Por qué "competencias digitales" (OE1) se lee a través de la alfabetización digital docente
+&nbsp;&nbsp;&nbsp;3.3. Población y muestra
+&nbsp;&nbsp;&nbsp;3.4. Técnica de producción de datos
+&nbsp;&nbsp;&nbsp;3.5. Los imaginarios sociotécnicos como dimensión analítica activa
+&nbsp;&nbsp;&nbsp;3.6. Dimensiones analíticas de codificación
+&nbsp;&nbsp;&nbsp;3.7. Criterios de rigor
+&nbsp;&nbsp;&nbsp;3.8. Reflexividad
+&nbsp;&nbsp;&nbsp;3.9. Consideraciones éticas
+&nbsp;&nbsp;&nbsp;3.10. Limitaciones metodológicas
+
+**4. Capítulo 4 — Análisis y Resultados (avance empírico)**
+&nbsp;&nbsp;&nbsp;4.1. Representaciones sobre la IAG en educación (objetivación y anclaje)
+&nbsp;&nbsp;&nbsp;4.2. Preocupaciones y expectativas
+&nbsp;&nbsp;&nbsp;4.3. Concepciones sobre el potencial pedagógico (diálogo con Ausubel)
+&nbsp;&nbsp;&nbsp;4.4. Usos proyectados en el diseño de propuestas didácticas
+&nbsp;&nbsp;&nbsp;4.5. Imaginarios sociotécnicos rastreados en el discurso docente
+&nbsp;&nbsp;&nbsp;4.6. Relación entre competencias digitales y representaciones
+
+**5. Anexo — Descripción de la muestra**
+
+**6. Estado general y próximos pasos**
 
 ---
 

@@ -399,3 +399,10 @@ Por otro lado, la investigadora aclar{\'o} que la "Ferrarelli (2026)" citada den
 **Score:** N/A
 **Verdict:** La investigadora notó que el .docx ya enviado no reflejaba la incorporación recién hecha al Cap. 2 (apartados 2.1-2.3 tomados del plan). Se actualizó la sección del Capítulo 2 del documento de avance para que coincida con el capítulo real (ahora 2.1 Apertura, 2.2 Sesgo hacia niveles medio/superior, 2.3 Geografía y nivel educativo, 2.4 Cabello/Aprea, 2.5 Panorama general de antecedentes relevados), con la misma nota de pendiente-de-verificación de referencias para 2.1-2.3. Se regeneró el .docx con pandoc y se reenvió.
 **Report:** `quality_reports/avance_tesis_para_directora_2026-11-18.md`
+
+### 2026-11-19 — Índice del documento de avance expandido a nivel de subapartado
+**Phase:** Execution (síntesis de estado, no agente de pipeline)
+**Target:** `quality_reports/avance_tesis_para_directora_2026-11-18.md`
+**Score:** N/A
+**Verdict:** La investigadora pidió que el índice del documento de avance liste los subapartados de cada capítulo, como un índice de tesis real, no solo el nivel de capítulo. Se reemplazó el índice de 6 líneas por uno anidado con los 6 apartados de Cap. 1, los 5 de Cap. 2, los 10 de Cap. 3 (incluidas las dos sub-subsecciones de 3.2) y los 6 de Cap. 4, excluyendo del índice las secciones de encuadre del propio documento (Nota de presentación, el índice mismo) que no son parte de la tesis. Se regeneró el .docx y se reenvió.
+**Report:** `quality_reports/avance_tesis_para_directora_2026-11-18.md`
