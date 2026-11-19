@@ -13,7 +13,7 @@ Este documento reúne todo lo que está escrito o avanzado hasta la fecha, organ
 No todo está en el mismo estado. Para que se entienda de un vistazo:
 
 - **Capítulo 3 (Diseño Metodológico)** está completo en un primer borrador en prosa.
-- **Capítulo 1 (Marco Teórico)**, apartado 1.1, está redactado en prosa final. Los apartados 1.2 a 1.6 todavía no están escritos como texto corrido — van como notas de avance (qué argumento van a desarrollar, qué fuentes ya están confirmadas y listas para citar, y qué lecturas faltan).
+- **Capítulo 1 (Marco Teórico)** está redactado en su totalidad. El apartado 1.1 ya está verificado de forma independiente, cita por cita. Los apartados 1.2 a 1.6 se incorporaron directamente desde el plan de tesis aprobado, a pedido de la investigadora -- que ya leyó personalmente esas fuentes -- con la revisión final de referencias todavía pendiente.
 - **Capítulo 2 (Antecedentes)** tiene cuatro apartados redactados (2.1 a 2.3 tomados del plan de tesis aprobado, con sus referencias pendientes de una revisión final; 2.4 ya verificado de forma independiente) y, además, el panorama completo de antecedentes relevados hasta ahora, todavía sin convertir en prosa de capítulo (2.5).
 - **Capítulo 4 (Análisis y Resultados)** no está redactado todavía, pero el trabajo empírico de base sí está completo: el corpus de 15 entrevistas está codificado en su totalidad, y hay un avance organizado por subsección con los hallazgos, las citas candidatas y los casos que no siguen el patrón general.
 - Se incluye también un resumen de la muestra y el estado general del cronograma.
@@ -83,49 +83,39 @@ Por último, el interés por las representaciones docentes se vincula con su inc
 
 ---
 
-## 1.2 Imaginarios sociotécnicos (estado de avance)
+**Nota sobre 1.2 a 1.6:** se incorporaron recién, tomadas directamente del apartado "Marco Teórico" del plan de tesis aprobado, a pedido explícito de la investigadora, que ya leyó personalmente estas fuentes. Dos datos ya se corrigieron porque este proyecto los había verificado de forma independiente antes de este pedido (Dussel 2009 → 2012; orden de autoría de Gvirtz y Palamidessi, no Palamidessi y Gvirtz); el resto de las referencias se mantiene tal como aparece en el plan, pendiente de la revisión final de la investigadora.
 
-**Argumento a desarrollar:** los imaginarios sociotécnicos, concepto de Jasanoff y Kim, entendidos como visiones de futuro sostenidas colectivamente en torno a la ciencia y la tecnología. Se adopta explícitamente la relectura crítica y materialista de Saura, Lima y Arguelho (2024) por sobre una lectura posestructuralista de "deseos colectivos" consensuados: los imaginarios son diseñados por actores con relaciones de poder precisas, no emergen espontáneamente. Se distinguen tres categorías de imaginarios (global, nacional, mercantilista). El apartado cierra con la idea de que los imaginarios median entre las visiones macro sobre el futuro tecnológico-educativo y las representaciones y prácticas concretas de las docentes, lo que conecta directamente con el apartado 1.1.
+## 1.2 Imaginarios sociotécnicos
 
-**Fuentes ya confirmadas:** Jasanoff y Kim (2015), *Dreamscapes of Modernity* (definición canónica de imaginarios sociotécnicos); Saura, Lima y Arguelho (2024, *Journal of Supranational Policies of Education*), con las tres categorías y la cita de Jessop (2010) que retoman.
+Los imaginarios sociotécnicos, concepto desarrollado originalmente por Jasanoff, se definen como "visiones de futuros deseables sostenidos colectivamente, estabilizados institucionalmente y actuados públicamente, animados por entendimientos comunes sobre las formas de vida social y de orden social alcanzable a través de, y en apoyo de, avances en ciencia y tecnología" (Jasanoff y Kim, 2015, p. 5). Esta noción ha cobrado particular relevancia para comprender cómo se diseñan y proyectan las políticas tecnológicas contemporáneas, en especial en el campo educativo.
 
-**Lectura pendiente:** el texto completo de Jasanoff y Kim (2015) todavía no fue leído en profundidad — por ahora solo se cuenta con su definición canónica, ya conocida y citable, pero faltan citas textuales propias del libro completo.
+Nos interesa, sin embargo, resituar esta conceptualización desde una perspectiva crítica y materialista, que evite la tendencia posestructuralista a presentarla como un mero "deseo colectivo" consensuado. Como señalan Saura, Lima y Arguelho (2024), los imaginarios sociotécnicos no emergen espontáneamente de aspiraciones colectivas, sino que "son pensados, diseñados y configurados por actores políticos determinados, que ejercen unas relaciones de poder muy precisas, y una ideología muy específica" (p. 17). En el campo educativo, estos imaginarios adquieren particular relevancia puesto que proyectan no solo visiones sobre el futuro tecnológico, sino sobre el futuro mismo de la educación, los roles docentes y las formas de aprender. Siguiendo a Saura et al. (2024), adoptamos la distinción entre tres categorías: los imaginarios globales, diseñados por organismos internacionales y actores supranacionales; los nacionales, configurados por gobiernos estatales; y los mercantilistas, promovidos por corporaciones tecnológicas y actores del mercado EdTech.
 
----
+La comprensión de estos imaginarios resulta fundamental para analizar las representaciones docentes, en tanto median entre las visiones macro sobre el futuro tecnológico-educativo y las representaciones y prácticas concretas de los y las educadoras, que no construyen sus representaciones sobre la IA generativa en el vacío, sino en diálogo con estos imaginarios que circulan en el discurso educativo contemporáneo.
 
-## 1.3 IA generativa: definición técnica (estado de avance)
+## 1.3 IA generativa: definición técnica
 
-**Argumento a desarrollar:** el hito técnico que marca un punto de inflexión (GPT-3 en 2020, ChatGPT en noviembre de 2022) en la accesibilidad y el uso masivo de estas herramientas. Definición técnica de la IA generativa como modelos que producen contenido, no solo lo analizan. Sus posibilidades educativas (retroalimentación personalizada, andamiaje cognitivo) y la preocupación por la automatización o sustitución del rol docente, con el argumento de por qué ese rol sigue siendo central si se concibe la educación como un proceso social. Es, por diseño, la sección más breve y menos teóricamente cargada del capítulo.
+El desarrollo de la inteligencia artificial generativa experimentó un avance significativo en los últimos años, en especial con la llegada de los modelos de lenguaje de gran escala. Un hito fundamental fue el lanzamiento de GPT-3 por OpenAI en 2020, que estableció un nuevo estándar en la generación de texto; sin embargo, fue el lanzamiento de ChatGPT en noviembre de 2022 el que marcó el punto de inflexión en la accesibilidad y el uso masivo de la IAG (Brown et al., 2020).
 
-**Lectura pendiente:** todavía no se confirmó ninguna fuente para este apartado. Candidatas a priorizar: Holmes (2023, transformación del rol docente) y Mollick & Mollick (2023, aprendizaje personalizado), que sostienen el argumento central de la sección. Brown et al. (2020, sobre GPT-3) y Bruner (1997) quedarían como color técnico/contextual, de menor prioridad.
+La IA generativa se basa en algoritmos de aprendizaje automático capaces de producir contenidos de forma autónoma -- texto, imagen o audio --, en lugar de limitarse a analizar datos ya existentes. El desarrollo de estos modelos abre posibilidades para la educación, al permitir la generación automática de preguntas, explicaciones y retroalimentación personalizada (Merrill, 2022; Mollick & Mollick, 2023). Una de las preocupaciones centrales que surgen al pensar la IA en educación es la posibilidad de que la automatización de los procesos de aprendizaje termine prescindiendo del rol docente (Bruner, 1997; Holmes, 2023). Si concebimos la educación como un proceso social, sin embargo, el papel docente sigue siendo fundamental para decidir qué y cómo se enseña (Holmes, 2023), razón por la cual diversos autores sugieren pensar en una evolución o transformación del rol docente antes que en su desaparición.
 
----
+## 1.4 Aprendizaje significativo
 
-## 1.4 Aprendizaje significativo (estado de avance)
+La teoría del aprendizaje significativo de Ausubel (1963) sostiene que el aprendizaje resulta más efectivo cuando los conceptos nuevos se relacionan de manera sustantiva, y no arbitraria, con los conocimientos previos que posee el estudiante. Algunos autores sostienen que la IA generativa, al habilitar una retroalimentación y un andamiaje más personalizados e interactivos, podría promover procesos de aprendizaje significativo (Merrill, 2022; Mollick & Mollick, 2023). El desafío para los y las docentes sigue siendo, sin embargo, generar propuestas que, además de motivar e innovar, propicien efectivamente esos aprendizajes. Conocer estas representaciones por parte de quienes guían el aprendizaje constituye un primer paso para pensar prácticas que contribuyan genuinamente a esa construcción.
 
-**Argumento a desarrollar:** la teoría de Ausubel, según la cual el aprendizaje es efectivo cuando los conceptos nuevos se relacionan de manera sustantiva —y no arbitraria— con los conocimientos previos de quien aprende. La IA generativa podría promover esto mediante retroalimentación personalizada, pero el desafío sigue siendo que las docentes generen propuestas que efectivamente lo propicien, no solo que motiven o innoven. El apartado cierra señalando que conocer las representaciones de quienes guían el aprendizaje es un primer paso para pensar prácticas que construyan aprendizajes significativos.
+*(La lectura de Ausubel (1963) en sí sigue siendo la más urgente de todo el capítulo.)*
 
-**Lectura pendiente, la más urgente de todo el capítulo:** el propio Ausubel (1963) todavía no tiene ninguna lectura confirmada, pese a ser el anclaje teórico central de este apartado. Es la prioridad número uno de lectura en este momento.
+## 1.5 Alfabetización digital docente
 
----
+La alfabetización digital docente trasciende la mera adquisición de habilidades técnicas para situarse como un proceso social y cultural que habilita a los y las docentes a participar activamente en la cultura digital (Lankshear y Knobel, 2008). La UNESCO (2019) enfatiza que esta alfabetización debe entenderse como un proceso continuo, que comienza en la formación inicial y se extiende a lo largo del desarrollo profesional docente. Dussel (2012) destaca, en esa misma línea, que la alfabetización digital debe fomentar una relación crítica y productiva con las tecnologías, que supere la visión instrumental que las reduce a meros recursos didácticos -- perspectiva que dialoga con la caracterización de Castells (2006) sobre la "sociedad red" y con Cobo (2019) sobre la necesidad de una reflexión crítica sobre los usos y efectos de las tecnologías en los procesos de enseñanza y aprendizaje.
 
-## 1.5 Alfabetización digital docente (estado de avance)
+De este modo, los y las docentes necesitan desarrollar capacidades para diseñar propuestas didácticas que integren las tecnologías de manera fundamentada. Nos interesa, en particular, cómo se relaciona esta alfabetización digital con la capacidad de comprender y utilizar la IA generativa en el diseño de propuestas didácticas.
 
-**Argumento a desarrollar:** la alfabetización digital como proceso social y cultural, no solo técnico, siguiendo los Nuevos Estudios de Alfabetización (Lankshear y Knobel). Se trata de un proceso continuo a lo largo de la formación docente, con una relación crítica y productiva con la tecnología, no meramente instrumental. El apartado cierra con la pregunta de cómo se relaciona la alfabetización digital docente con la capacidad de usar la IA generativa en el diseño de propuestas didácticas, lo que conecta con el apartado 1.6.
+## 1.6 Diseño de propuestas didácticas
 
-**Fuentes ya confirmadas:** Redecker (2017, marco DigCompEdu de seis áreas de competencia digital docente); su adaptación regional iberoamericana (OEI, 2023); y Dussel (2012) sobre la relación crítica y productiva con la tecnología, que sostiene el argumento central del apartado.
+El diseño de experiencias de aprendizaje emerge como un proceso complejo que requiere una conceptualización específica en el marco de la sociedad red y de las competencias digitales como facilitadoras de la integración tecnológica. Gvirtz y Palamidessi (1998) plantean que "el diseño o la planificación es una prefiguración de la realidad que sirve para guiar la práctica" (p. 177), lo que destaca su carácter situado y contextual. Esta perspectiva dialoga con la metáfora de Perkins (2010), quien concibe la educación como "la coreografía para el aprendizaje" (p. 39), y con Larrosa (2006), para quien la experiencia educativa es "eso que me pasa" -- ambas conceptualizaciones enfatizan el carácter intencional y articulado del diseño didáctico.
 
-**Lectura pendiente:** Lankshear y Knobel (2008) en sí todavía no fue leído.
-
----
-
-## 1.6 Diseño de propuestas didácticas (estado de avance)
-
-**Argumento a desarrollar:** el diseño o la planificación como prefiguración situada y contextual de la práctica (Gvirtz y Palamidessi, 1998), puesto en diálogo con una lectura crítica y contemporánea del diseño didáctico atravesado por mediaciones tecnológicas (Kap, 2023 y 2024). El cierre del apartado conecta directamente con el objeto empírico de la tesis: el uso proyectado de la IA generativa en el diseño didáctico, no su uso en el aula frente a los estudiantes.
-
-**Fuentes ya confirmadas:** Gvirtz y Palamidessi (1998, capítulo 6), con dos citas textuales que definen el diseño como prefiguración de la realidad que guía la práctica; y Kap (2023 y 2024), que desarrolla la categoría "planificación como diseño" como actualización crítica de ese mismo argumento, atravesada por la tecnología. (Salvedad: la investigación de Kap se realizó con docentes de nivel superior, no primario — se incorpora como marco conceptual, no como antecedente empírico de la misma población.)
-
-**Lectura pendiente:** Adell y Castañeda (2012), que podría aportar un contraste explícito entre "pedagogía emergente" (su concepto) y "didáctica emergente" (el de Kap).
+Esta tesis retoma el argumento de Gvirtz y Palamidessi puesto en diálogo con una actualización crítica y contemporánea del diseño didáctico atravesado por mediaciones tecnológicas, que desarrollan Kap (2023, 2024) desde la misma línea de didáctica y tecnologías en la que se inscribe nuestra propia investigación. Kap (2024) profundiza la categoría de "planificación como diseño": "la planificación es, para estos docentes, representación, guía e inspiración, lo que le da un carácter abierto" (p. 112). Dado que la investigación de Kap se realizó con docentes de nivel superior, se incorpora como marco conceptual, y no como antecedente empírico de la misma población que estudia esta tesis.
 
 ---
 
@@ -322,7 +312,7 @@ La muestra se dividió en dos olas: 10 casos de diseño intencional original (se
 
 - **Fase de cierre de corpus (codificación de las 15 entrevistas):** completa.
 - **Matriz de patrones para el Capítulo 4:** completa como insumo de trabajo, en paralelo con la lectura del marco teórico.
-- **Marco teórico:** en curso. El apartado 1.1 está terminado; los apartados 1.2 a 1.6 tienen el argumento y las fuentes centrales ya identificadas, con lecturas puntuales pendientes (el más urgente: Ausubel, para el apartado 1.4).
+- **Marco teórico:** redactado en su totalidad (1.1 a 1.6). 1.1 ya está verificado de forma independiente; 1.2 a 1.6 se tomaron del plan de tesis aprobado a pedido de la investigadora, con la revisión final de referencias todavía pendiente de su parte (la lectura más urgente sigue siendo Ausubel, para el apartado 1.4).
 - **Antecedentes:** un fragmento redactado; el resto de la estructura del capítulo (los tres grupos de antecedentes identificados en el Ateneo de tesistas, la justificación de la intersección vacía que ocupa esta tesis) está planificada pero no escrita todavía.
 - **Capítulo 4 (redacción en prosa):** pendiente, a la espera de que el marco teórico esté más avanzado para poder escribirlo con diálogo teórico explícito.
 - **Discusión, Conclusiones e Introducción:** sin empezar, por diseño — se escriben al final.
