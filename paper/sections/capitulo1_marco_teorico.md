@@ -68,7 +68,7 @@ Desde la teoría de las representaciones sociales, el objeto representado no lle
 
 ## 1.4 Aprendizaje significativo
 
-La teoría del aprendizaje significativo de Ausubel (1963) sostiene que el aprendizaje resulta más efectivo cuando los conceptos nuevos se relacionan de manera sustantiva, y no arbitraria, con los conocimientos previos que posee el estudiante. Algunos autores sostienen que la IA generativa, al habilitar una retroalimentación y un andamiaje más personalizados e interactivos, podría promover procesos de aprendizaje significativo (Merrill, 2022; Mollick & Mollick, 2023). El desafío para los y las docentes sigue siendo, sin embargo, generar propuestas que, además de motivar e innovar, propicien efectivamente esos aprendizajes. Conocer estas representaciones por parte de quienes guían el aprendizaje constituye un primer paso para pensar prácticas que contribuyan genuinamente a esa construcción.
+La teoría del aprendizaje significativo de Ausubel (1963) sostiene que el aprendizaje resulta más efectivo cuando los conceptos nuevos se relacionan de manera sustantiva, y no arbitraria, con los conocimientos previos que posee el estudiante (Moreira, 2010). Algunos autores sostienen que la IA generativa, al habilitar una retroalimentación y un andamiaje más personalizados e interactivos, podría promover procesos de aprendizaje significativo (Merrill, 2022; Mollick & Mollick, 2023). El desafío para los y las docentes sigue siendo, sin embargo, generar propuestas que, además de motivar e innovar, propicien efectivamente esos aprendizajes. Conocer estas representaciones por parte de quienes guían el aprendizaje constituye un primer paso para pensar prácticas que contribuyan genuinamente a esa construcción.
 
 ---
 
