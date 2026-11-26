@@ -14,8 +14,8 @@
 
 | Código | Frecuencia (n/15) | Lectura |
 |---|---|---|
-| `objetivacion_imagen_concreta` | 8/15 (P3,P4,P5,P6,P8,P10,P13,P14) | Mayoritario cuando se pregunta directamente (Bloque 3, P1) — dos registros claramente distintos: **metáfora/imagen** (mayoría) vs. **definición técnico-funcional** (P13, P14 — las dos únicas que describen arquitectura/funcionamiento en vez de imagen) |
-| `anclaje_tecnologia_previa` | Débil en todo el corpus — instancia limpia solo en P2; ecos débiles en P3,P4,P8,P9; instancia indirecta/doméstica en P15 | **Código subdesarrollado, confirmado con el corpus completo** — reportar como hallazgo de ausencia relativa, no forzar |
+| `objetivacion_imagen_concreta` | 8/15 (P3,P4,P5,P6,P8,P10,P13,P14) | Mayoritario cuando se pregunta directamente (Bloque 3, P1) — dos registros claramente distintos: **metáfora/imagen** (mayoría) vs. **definición técnico-funcional** (P13, P14 — las dos únicas que describen arquitectura/funcionamiento en vez de imagen). **Inconsistencia detectada (2026-11-26, revisión del boceto v6):** esta fila incluye a P10, pero la tabla de "ancla privilegiada" de abajo lista a P15 en ese lugar y no a P10. No resuelto — verificar contra el timestamp puntual de P10 en el Bloque 3 antes de cerrar el Cap. 4. |
+| `anclaje_tecnologia_previa` | **Revisado (2026-11-26):** 5 instancias limpias y directas — P2 (instancia limpia ya identificada en la lectura anterior), P4 (Rincón del Vago: "cuando yo era chica estaba el Rincón del Vago... hoy en día es la IA"), P8 (la calculadora: "en su momento debatíamos el uso de la calculadora... siempre que aparece algo nuevo está el miedo"), P10 (el corrector de Word y la máquina de escribir: "no voy a usar Word porque me corrige las tildes... andá a la máquina de escribir si querés"), P12 (la electricidad: "es como que de repente no se use la energía eléctrica... ya está instalado"). Ecos más débiles en P3, P9; instancia indirecta/doméstica en P15 | **Ya no es un código subdesarrollado** — P4 y P8 estaban catalogados como "ecos débiles" en una lectura anterior, pero sus citas son instancias directas y claras. Reportar como "frecuente pero disperso" (5 instancias limpias + 2-3 ecos), no como ausencia relativa ni como patrón uniforme de diez |
 | `anclaje_figura_humana` | 4/15 (P4,P5,P10,P15) | Patrón consistente: la IA siempre se ancla como **asistente/apoyo subordinado**, nunca como par ni autoridad — dato con lectura propia para la Discusión |
 
 **Ancla privilegiada (Bloque 3, P1) — tabla comparativa lista para el Cap. 4:**
@@ -41,8 +41,8 @@
 
 | Código | Frecuencia | Lectura |
 |---|---|---|
-| `limita_integracion_sustantiva` | 7/15 (P6,P8,P9,P13,P15,P1,P14) | La preocupación mejor representada del corpus — riesgo de tercerización del proceso cognitivo/creativo |
-| `preocupacion_recursos_materiales_infraestructura` (inductivo) | 2/15 explícitos (P2, P1), reforzados en tono por otros casos | Preocupación **material/logística**, distinta de la preocupación pedagógica — no confundir en el Cap. 4 |
+| `limita_integracion_sustantiva` | **10/15 (P6,P8,P9,P13,P15,P1,P14,P10,P11,P12) — revisado 2026-11-26** | La preocupación mejor representada del corpus — riesgo de tercerización del proceso cognitivo/creativo. P11 ("no los hace pensar... les da como resuelto"), P12 ("dejan de pensar... ¿para qué voy a pensar?") y P10 (a un alumno: "te perdiste todo un proceso de escritura muy rico") se agregaron tras verificación contra transcripción primaria |
+| `preocupacion_recursos_materiales_infraestructura` (inductivo) | **3/15 explícitos (P2, P1, P6) — revisado 2026-11-26**, reforzados en tono por otros casos | Preocupación **material/logística**, distinta de la preocupación pedagógica — no confundir en el Cap. 4. P6 agregada: "en este contexto no tienen tanto acceso a lo digital... son chicos que viven en hoteles" |
 | `imaginario_desigualdad_estructural` | 5/15 (P7,P8,P10,P11,P13) | Con un matiz importante: P11 desplaza la lectura de clase social a **acompañamiento familiar** — sub-dimensión distinta, no forzar a lectura puramente socioeconómica |
 | `eco_imaginario_mercantil_mediatico` | **1/15 (P1) — antes ausencia total** | Hallazgo que cambió con el cierre del corpus — ver nota especial abajo |
 | `eco_de_par_colega` (inductivo, candidato a promoción) | 3/15 (P3,P9,P1) | Preocupación mediada por un tercero (colega, amiga), no experiencia propia — patrón: siempre sobre estudiantes universitarios/terciarios "que ya no piensan", nunca sobre el propio nivel primario |
@@ -67,7 +67,7 @@
 | Código | Frecuencia | Lectura |
 |---|---|---|
 | `potencia_integracion_sustantiva` | 8/15 (P2,P3,P5,P6,P7,P8,P10,P13) | Ni P1 ni P14 aportan instancia clara — ambas con posturas más cautelosas |
-| `limita_integracion_sustantiva` | 7/15 (P6,P8,P9,P13,P15,P1,P14) | Ver también §4.2 — el mismo código alimenta preocupaciones y concepción pedagógica; en esta subsección, enfocar en el argumento **pedagógico** (no delega el aprendizaje), no en el argumento de riesgo general |
+| `limita_integracion_sustantiva` | **10/15 (P6,P8,P9,P13,P15,P1,P14,P10,P11,P12) — revisado 2026-11-26** | Ver también §4.2 — el mismo código alimenta preocupaciones y concepción pedagógica; en esta subsección, enfocar en el argumento **pedagógico** (no delega el aprendizaje), no en el argumento de riesgo general. Las tres instancias agregadas (P10, P11, P12) son justamente del registro pedagógico, no del de riesgo general |
 | `adaptacion_saberes_previos` | 3/15 (P3,P7,P8) | Siempre ligado a un caso concreto de un alumno con dificultades — se superpone consistentemente con `criterio_contextual_grupo` (§4.4), tal como anticipaba el codebook |
 
 **Mejores citas:**
@@ -89,13 +89,13 @@
 
 | Código | Frecuencia | Lectura |
 |---|---|---|
-| `criterio_sentido_pedagogico` | **11/15 — el código de mayor frecuencia de todo el corpus** (P3,P4,P5,P7,P8,P9,P10,P12,P15,P1,P14) | Confirma la predicción del codebook desde el procesamiento exploratorio inicial |
+| `criterio_sentido_pedagogico` | **12/15 — el código de mayor frecuencia de todo el corpus (revisado 2026-11-26)** (P3,P4,P5,P7,P8,P9,P10,P12,P15,P1,P14,P13) | Confirma la predicción del codebook desde el procesamiento exploratorio inicial. P13 agregada: "se necesita muchísimo criterio... para saber dónde y en qué momento utilizarla", "¿para qué? ¿En qué momento?" |
 | `criterio_contextual_grupo` (desglosado, relectura 2026-08-07) | Ver desglose abajo | El código paraguas en realidad mezclaba tres fenómenos distintos — ver `relectura_ciclo_heterogeneidad.md` para el detalle completo y la corrección de una lectura previa demasiado apresurada |
 | ↳ `criterio_etario_ciclo` (inductivo) | **7/15, dividido: 4 exclusión (P1,P6,P9,P15) vs. 3 contra-instancia (P3,P4,P12)** | **Tensión real en el corpus, no consenso** — 4 participantes limitan/excluyen primer ciclo por edad; 3 rechazan explícitamente esa lógica (P4: *"independientemente del grado"*; P12: adapta con trabajo "desenchufado" en vez de excluir). Presentar como debate A/B en el Cap. 4, no como tendencia única |
 | ↳ `criterio_heterogeneidad_competencias_grupo` (inductivo) | 1/15 (P14) | Código delgado — diferencia de manejo técnico dentro de un mismo grado, distinto de ciclo. No forzar, reportar como está |
 | ↳ Adaptación a estudiante individual (P7, P8) | 2/15 | Ya cubierto por `adaptacion_saberes_previos` (Dimensión 4) — no es ciclo ni heterogeneidad grupal, retirar del conteo de `criterio_contextual_grupo` |
-| `uso_iai_apoyo_administrativo` | 8/15 (P4,P5,P7,P8,P10,P13,P1,P14) | Incluye un caso híbrido (P1, proyecto para concurso Cooperar — entre gestión institucional y diseño de propuesta) |
-| `tension_autoria_impronta` | 4/15 (P9,P10,P1,P14) | Dos registros distintos: **autorreferido** (P9, P10, P1 — sobre la propia práctica de planificación) vs. **generalizado/filosófico** (P14 — sobre "lo humano" en general) — no tratarlos como intercambiables en el Cap. 4 |
+| `uso_iai_apoyo_administrativo` | **9/15 (P4,P5,P7,P8,P10,P13,P1,P14,P6) — revisado 2026-11-26** | Incluye un caso híbrido (P1, proyecto para concurso Cooperar — entre gestión institucional y diseño de propuesta). P6 agregada: "me ayuda mucho a la hora de hacer informes" |
+| `tension_autoria_impronta` | 4/15 (P9,P10,P1,P14) | Dos registros distintos: **autorreferido** (P9, P10, P1 — sobre la propia práctica de planificación) vs. **generalizado/filosófico** (P14 — sobre "lo humano" en general) — no tratarlos como intercambiables en el Cap. 4. **Revisado (2026-11-26):** se evaluó sumar a P2 ("ser copista tampoco me gusta"), pero la cita refiere a los cursos de capacitación que hace cada año, no al diseño de propuestas didácticas — no entra en la definición del código, se descarta |
 
 **Mejores citas:**
 - P4: *"Que se ensamble de manera correcta, que tenga una funcionalidad que sume... preguntarme a mí misma para qué la estoy incluyendo"* [04:53] — formulación temprana y clara del criterio
